@@ -10,6 +10,8 @@
     "test:search": "node --experimental-strip-types --test scripts/search.test.mjs",
     "test:seo": "node --experimental-strip-types --test scripts/seo.test.mjs",
     "optimize:images": "node scripts/optimize-images.mjs",
+    "optimize:favicon": "node scripts/optimize-favicon.mjs",
+    "optimize:video": "node scripts/optimize-hero-video.mjs",
     "test:admin": "vitest run",
     "db:migrate": "node scripts/admin/migrate.mjs"
   },

@@ -1,0 +1,51 @@
+{
+  "title": "Serene Green Garden Pathways Under Blue Sky",
+  "author": "Eleonora Vokueva",
+  "sourcePage": "https://www.pexels.com/video/serene-green-garden-pathways-under-blue-sky-37618414/",
+  "downloadUrl": "https://videos.pexels.com/video-files/37618414/15945157_1920_1080_25fps.mp4",
+  "license": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "use": "Decorative stock garden video. Not presented as a completed Gültekin Peyzaj project.",
+  "processing": {
+    "durationSeconds": 23.52,
+    "audio": false,
+    "codec": "H.264",
+    "pixelFormat": "yuv420p",
+    "fps": 25,
+    "fastStart": true,
+    "crf": 28,
+    "sourceDurationSeconds": 8.28,
+    "loop": "forward-reverse",
+    "cruisePlaybackRate": 0.75,
+    "turnEaseSeconds": 0.8,
+    "motionInterpolation": true,
+    "removeDuplicateEndpointFrames": true,
+    "script": "scripts/optimize-hero-video.mjs"
+  },
+  "files": [
+    {
+      "file": "public/videos/garden-path-loop.mp4",
+      "width": 1600,
+      "height": 900,
+      "bytes": 6589561,
+      "maxBitrateKbps": 2200
+    },
+    {
+      "file": "public/videos/garden-portrait-loop.mp4",
+      "width": 608,
+      "height": 1080,
+      "crop": {
+        "x": 786,
+        "y": 0,
+        "width": 608,
+        "height": 1080
+      },
+      "bytes": 3012324,
+      "maxBitrateKbps": 1000
+    }
+  ],
+  "posters": [
+    "public/images/garden-poster.webp",
+    "public/images/garden-poster-mobile.webp"
+  ]
+}

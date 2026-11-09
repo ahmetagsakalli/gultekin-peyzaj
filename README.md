@@ -42,7 +42,7 @@ Metinler ve panel kayıtları Neon PostgreSQL üzerinde; panelden yüklenen gör
 - `src/lib/admin`: Panel yetkilendirmesi ve içerik işlemleri.
 - `public/images`, `public/videos`, `src/fonts`: Yerel WebP görseller, hero video döngüleri ve yazı tipleri.
 - `deploy`: Nginx ve systemd örnekleri.
-- `tests`, `scripts`: Aktarılabilen testler ve geliştirme araçları.
+- `tests`, `scripts`: Testler ve geliştirme araçları.
 - `backups`: İçerik yedeği ve canlı sürüm dosya doğrulama listesi.
 
 Stok görseller tamamlanmış işletme projeleri olarak sunulmaz. Görsel kaynakları `docs/image-sources.json`, ikon kaynakları `docs/icon-license.md`, font lisansı `src/fonts/OFL.txt` içindedir. Hero videoları ve tüm yayın görselleri hazır olarak repoda bulunur; kurulum için yeniden üretilmeleri gerekmez.
@@ -56,4 +56,4 @@ npm run test:search
 npm run test:seo
 ```
 
-Canlı yayın öncesi yapılan incelemenin kaydı [docs/final-qa-2026-11-09/RAPOR.md](docs/final-qa-2026-11-09/RAPOR.md) dosyasındadır. Bu kayıt önceki tam çalışma klasöründeki testleri anlatır. Bu aktarımın kapsamı ve iCloud kaynaklı yardımcı dosya eksikleri [AKTARIM-NOTLARI.md](AKTARIM-NOTLARI.md) içinde belirtilmiştir.
+Canlı yayın öncesi yapılan incelemenin kaydı [docs/final-qa-2026-11-09/RAPOR.md](docs/final-qa-2026-11-09/RAPOR.md) dosyasındadır. Bu aktarımın kapsamı ve iCloud dosyalarının kurtarma kaydı [AKTARIM-NOTLARI.md](AKTARIM-NOTLARI.md) içinde belirtilmiştir.
