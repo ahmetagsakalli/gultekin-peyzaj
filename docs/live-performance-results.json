@@ -1,0 +1,78 @@
+[
+  {
+    "name": "live-mobile",
+    "url": "https://gultekin-peyzaj.vercel.app/",
+    "time": "2026-11-05T20:03:14.836Z",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 92
+    },
+    "metrics": {
+      "first-contentful-paint": 1523.782,
+      "largest-contentful-paint": 1523.782,
+      "speed-index": 2860.8111040002273,
+      "total-blocking-time": 65,
+      "cumulative-layout-shift": 0
+    },
+    "robots": "Fetch of robots.txt failed: Timed out fetching resource"
+  },
+  {
+    "name": "live-desktop",
+    "url": "https://gultekin-peyzaj.vercel.app/",
+    "time": "2026-11-05T20:06:15.035Z",
+    "scores": {
+      "performance": 80,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1404.9555,
+      "largest-contentful-paint": 1721.9555,
+      "speed-index": 4397.068482993882,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0
+    },
+    "robots": "valid"
+  },
+  {
+    "name": "live-mobile-recheck",
+    "url": "https://gultekin-peyzaj.vercel.app/",
+    "time": "2026-11-05T20:08:35.500Z",
+    "scores": {
+      "performance": 95,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 1596.1399999999999,
+      "largest-contentful-paint": 1596.1399999999999,
+      "speed-index": 5197.786823999914,
+      "total-blocking-time": 47,
+      "cumulative-layout-shift": 0
+    },
+    "robots": "valid"
+  },
+  {
+    "name": "live-desktop-recheck",
+    "url": "https://gultekin-peyzaj.vercel.app/",
+    "time": "2026-11-05T20:10:36.518Z",
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "first-contentful-paint": 519.128,
+      "largest-contentful-paint": 721.128,
+      "speed-index": 1729.8451076379226,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0
+    },
+    "robots": "valid"
+  }
+]

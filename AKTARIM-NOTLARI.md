@@ -1,27 +1,36 @@
 # GitHub aktarım kaydı — 9 Kasım 2026
 
-Uygulamanın son doğrulanan üretim sürümündeki 103 dosya Vercel dağıtım kaynağından alındı. Dosyalar SHA-1 değerleriyle karşılaştırıldı; kayıt `backups/source-manifest.json` içindedir. Site ve admin kaynak kodu, tüm yayın görselleri/videoları, fontlar ve bağımlılık kilidi eksiksizdir. `package.json` dahil 103 dosyanın tamamı canlı sürüm kaydıyla eşleşir. Sitenin görünümü veya çalışma mantığı değiştirilmedi.
+## Uygulama ve bağlantılar
 
-Projenin mevcut `.env.local` bağlantıları, admin giriş bilgileri ve içerik yedeği kullanıcı isteğiyle özel repoya eklendi. Kişisel GitHub/Vercel hesap tokenları ve tarayıcı oturumları proje dosyası değildir ve aktarılmadı. Ortam dosyasındaki geçici Vercel OIDC dağıtım tokenı çıkarıldı; uygulamanın Neon/Blob ve oturum ayarları korundu.
+Doğrulanan üretim sürümündeki 103 dosya dağıtım kaynağından alındı; özgün SHA-1 değerleri `backups/source-manifest.json` içindedir. Site ve admin kaynak kodu, yayın görselleri/videoları, fontlar ve bağımlılık kilidi korunmuştur. `.vercelignore` dosyasına yeni ham arşiv, yedek ve kurulum klasörlerini Vercel dağıtım paketinden çıkarmak için kurallar eklenmiştir; bunlar GitHub reposunda tutulur.
 
-## iCloud dosyalarının tamamlanması
+Kullanıcının istediği `.env.local` bağlantıları, admin giriş bilgileri ve içerik yedeği özel repoya eklendi. Kişisel GitHub/Vercel hesap tokenları ve tarayıcı oturumları proje dosyası değildir; aktarılmadı. Geçici Vercel OIDC dağıtım tokenı çıkarıldı; uygulamanın Neon/Blob ve oturum ayarları korundu.
 
-İlk aktarımda iCloud'dan okunamayan beş dosya, bu projenin özgün yazma ve düzenleme kayıtlarından geri alındı:
+## Tamamlanan arşiv
 
-- `scripts/optimize-favicon.mjs`
-- `scripts/optimize-hero-video.mjs`
-- `tests/admin/page-media.test.tsx`
-- `docs/video-source.json`
-- `start-local.command`
+- `assets/source/`: Eski `work/assets` klasöründeki 29 dosyanın tamamı. JPG/PNG kaynakları, logo ve favicon kaynağı, kaynak videolar, posterler, alternatif fotoğraflar, font kaynağı ve kaynak adresi kayıtları.
+- `docs/`: Özgün proje klasöründeki 197 doküman, Lighthouse HTML/JSON raporu, kontrol kaydı ve ekran görüntüsünün tamamı.
+- `backups/archive-manifest.json`: Bu 226 arşiv dosyasının boyutları ve SHA-256 değerleri.
+- `backups/media-archive-manifest.json`: Ham medyanın eski dosya boyutlarıyla karşılaştırması.
 
-Kayıtlardaki son değişiklikler ve biçimlendirme uygulandı; beş dosyanın bayt uzunlukları özgün dosya metadatasıyla eşleşti. Favicon ve video üretim komutları `package.json` içine özgün sıralarıyla geri kondu. Favicon kaynak notları da `docs/favicon-notes.md` olarak eklendi. Önceki yardımcı dosya eksikleri giderildi.
+İlk aktarımda iCloud'dan okunamayan favicon/video betikleri, sayfa medyası testleri, video kaynak kaydı ve yerel başlatma betiği projenin özgün yazma/düzenleme kayıtlarından geri alındı. Npm komutları da geri kondu.
 
-## Kullanım
+Ham medyanın okunabilen dosyaları doğrudan kopyalandı. İndirilemeyen stok dosyalar kayıtlı özgün adreslerinden yeniden alındı; logo/favicon ve önizleme dosyaları bu projenin orijinal üretim kayıtlarından kurtarıldı. İki PNG poster aynı kaynak MP4 ve aynı FFmpeg komutlarıyla tekrar üretildi. Yeniden indirilen iki kullanılmayan alternatif fotoğrafın (`candidate-a.jpg`, `candidate-b.jpg`) bayt boyutları CDN'nin güncel çıktısında biraz farklıdır; kaynak fotoğrafları ve adresleri aynıdır. Kullanılan yayın görselleri değişmedi.
 
-`node_modules` ve `.next` makineye özel üretilen dosyalardır; VPS'te `npm ci` ve `npm run build` ile oluşturulur. Nginx/systemd örnekleri ve VPS kurulum belgesi bu aktarım için eklendi.
+## Araçların kullanımı
 
-Hazır WebP görseller, faviconlar ve video döngüleri repodadır; siteyi çalıştırmak için yeniden üretilmeleri gerekmez. Görsel/favikon üretim betikleri eski çalışma düzenindeki `../../work/assets` kaynaklarını bekler. Video üretim betiğine kaynak MP4 yolu parametre olarak verilir ve FFmpeg gerekir. Kaynak JPG/PNG arşivi ve eski Lighthouse HTML/JSON dökümleri uygulama reposuna dahil değildir; görsel kaynak kayıtları ve QA özetleri `docs` klasöründedir.
+Görsel ve favicon betikleri artık repo içindeki `assets/source` klasörünü kullanır:
 
-## Aktarım kontrolleri
+```sh
+npm run optimize:images
+npm run optimize:favicon
+npm run optimize:video -- assets/source/revision/garden-path-source.mp4
+```
 
-Temiz `npm ci` ardından üretim derlemesi başarılı oldu. Eksik test dosyasının geri alınmasından sonra 53 testin tamamı (44 panel/içerik, 5 arama, 4 SEO) ve TypeScript kontrolü geçti. Kurtarılan betiklerin JavaScript ve zsh sözdizimi kontrolleri de başarılı. Kaynak karşılaştırmasında 103 üretim dosyasının tamamı değişmeden doğrulandı.
+Video üretimi için FFmpeg gerekir; özel konum `FFMPEG_BIN` ile verilebilir. Hazır yayın dosyaları zaten `public` ve `src/app` altındadır. Üretim betiklerinin çalıştırılması bu dosyaları yeniden oluşturur.
+
+`node_modules`, `.next` ve geçici video kodlama çıktıları yeniden üretilebilen çalışma dosyalarıdır. Node bağımlılıkları `npm ci`, site derlemesi `npm run build` ile oluşturulur. Kaynak medya ve raporlar artık repo içindedir.
+
+## Kontroller
+
+53 test (44 panel/içerik, 5 arama, 4 SEO) ve TypeScript kontrolü geçti. Kurtarılan betiklerin sözdizimi kontrolleri başarılı. Kaynakları repo içine alan görsel/favikon betikleri ayrı bir geçici klasörde çalıştırılarak doğrulandı; yayın dosyaları bu kontrol sırasında değiştirilmedi. Arşiv dosyaları GitHub'a aktarıldıktan sonra Git nesne özetleriyle karşılaştırılır.

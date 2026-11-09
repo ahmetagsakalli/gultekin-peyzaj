@@ -1,0 +1,86 @@
+[
+  {
+    "page": "Ana sayfa",
+    "device": "Mobil",
+    "performance": 99,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpSeconds": 1.03,
+    "tbtMs": 132.5,
+    "cls": 0,
+    "report": "release-home-mobile.report.json"
+  },
+  {
+    "page": "Ana sayfa",
+    "device": "Masaüstü",
+    "performance": 100,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpSeconds": 0.59,
+    "tbtMs": 0,
+    "cls": 0,
+    "report": "release-home-desktop.report.json"
+  },
+  {
+    "page": "Hizmetlerimiz",
+    "device": "Mobil",
+    "performance": 100,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpSeconds": 1.86,
+    "tbtMs": 61,
+    "cls": 0,
+    "report": "final-services.report.json"
+  },
+  {
+    "page": "Hakkımızda",
+    "device": "Mobil",
+    "performance": 98,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpSeconds": 2.2,
+    "tbtMs": 42,
+    "cls": 0,
+    "report": "final-about.report.json"
+  },
+  {
+    "page": "İletişim",
+    "device": "Mobil",
+    "performance": 100,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpSeconds": 0.93,
+    "tbtMs": 66,
+    "cls": 0,
+    "report": "final-contact.report.json"
+  },
+  {
+    "page": "Blog",
+    "device": "Mobil",
+    "performance": 98,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpSeconds": 2.33,
+    "tbtMs": 36.5,
+    "cls": 0,
+    "report": "final-blog.report.json"
+  },
+  {
+    "page": "Blog yazısı",
+    "device": "Mobil",
+    "performance": 96,
+    "accessibility": 100,
+    "bestPractices": 100,
+    "seo": 100,
+    "lcpSeconds": 2.2,
+    "tbtMs": 175.99999999999977,
+    "cls": 0,
+    "report": "final-article.report.json"
+  }
+]

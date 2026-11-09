@@ -1,0 +1,189 @@
+{
+  "baseUrl": "http://localhost:3001",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Gültekin Peyzaj | Samsun Peyzaj ve Bahçe Bakımı",
+      "description": "Samsun ve çevresinde peyzaj tasarım ve uygulama, periyodik bahçe bakımı ve budama. Gültekin Peyzaj, Atakum.",
+      "ogTitle": "Gültekin Peyzaj | Samsun Peyzaj ve Bahçe Bakımı",
+      "ogDescription": "Samsun ve çevresinde peyzaj tasarım ve uygulama, periyodik bahçe bakımı ve budama. Gültekin Peyzaj, Atakum.",
+      "ogImage": "http://localhost:3000/opengraph-image",
+      "twitterTitle": "Gültekin Peyzaj | Samsun Peyzaj ve Bahçe Bakımı",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [
+        "Organization"
+      ],
+      "missingAlt": 0
+    },
+    {
+      "path": "/hizmetler",
+      "status": 200,
+      "title": "Samsun Peyzaj ve Bahçe Bakım Hizmetleri | Gültekin Peyzaj",
+      "description": "Samsun’da peyzaj tasarım ve uygulama, periyodik bahçe bakımı, çim biçme, sulama ve budama hizmetleri.",
+      "ogTitle": "Samsun Peyzaj ve Bahçe Bakım Hizmetleri | Gültekin Peyzaj",
+      "ogDescription": "Samsun’da peyzaj tasarım ve uygulama, periyodik bahçe bakımı, çim biçme, sulama ve budama hizmetleri.",
+      "ogImage": "http://localhost:3000/opengraph-image",
+      "twitterTitle": "Samsun Peyzaj ve Bahçe Bakım Hizmetleri | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [],
+      "missingAlt": 0
+    },
+    {
+      "path": "/hakkimizda",
+      "status": 200,
+      "title": "Hakkımızda | Gültekin Peyzaj",
+      "description": "Gültekin Peyzaj ve Eren Gültekin. Atakum merkezli, Samsun ve çevresinde peyzaj, bahçe bakımı ve budama.",
+      "ogTitle": "Hakkımızda | Gültekin Peyzaj",
+      "ogDescription": "Gültekin Peyzaj ve Eren Gültekin. Atakum merkezli, Samsun ve çevresinde peyzaj, bahçe bakımı ve budama.",
+      "ogImage": "http://localhost:3000/opengraph-image",
+      "twitterTitle": "Hakkımızda | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [],
+      "missingAlt": 0
+    },
+    {
+      "path": "/iletisim",
+      "status": 200,
+      "title": "İletişim | Gültekin Peyzaj",
+      "description": "Gültekin Peyzaj ile iletişime geçin. Telefon ve WhatsApp: 0541 283 70 15. Atakum / Samsun.",
+      "ogTitle": "İletişim | Gültekin Peyzaj",
+      "ogDescription": "Gültekin Peyzaj ile iletişime geçin. Telefon ve WhatsApp: 0541 283 70 15. Atakum / Samsun.",
+      "ogImage": "http://localhost:3000/opengraph-image",
+      "twitterTitle": "İletişim | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [],
+      "missingAlt": 0
+    },
+    {
+      "path": "/blog",
+      "status": 200,
+      "title": "Bahçe Bakımı ve Peyzaj Blogu | Gültekin Peyzaj",
+      "description": "Bahçe düzenleme, çim bakımı, sulama, budama ve toprak hakkında Gültekin Peyzaj blog yazıları.",
+      "ogTitle": "Bahçe Bakımı ve Peyzaj Blogu | Gültekin Peyzaj",
+      "ogDescription": "Bahçe düzenleme, çim bakımı, sulama, budama ve toprak hakkında Gültekin Peyzaj blog yazıları.",
+      "ogImage": "http://localhost:3000/opengraph-image",
+      "twitterTitle": "Bahçe Bakımı ve Peyzaj Blogu | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [],
+      "missingAlt": 0
+    },
+    {
+      "path": "/blog/bahce-duzenlemesine-nereden-baslamali",
+      "status": 200,
+      "title": "Bahçe düzenlemesine nereden başlamalı? | Gültekin Peyzaj",
+      "description": "Bahçeyi düzenlemeden önce kullanım alanlarını, geçişleri ve bakım ihtiyacını planlamak için bir başlangıç rehberi.",
+      "ogTitle": "Bahçe düzenlemesine nereden başlamalı? | Gültekin Peyzaj",
+      "ogDescription": "Bahçeyi düzenlemeden önce kullanım alanlarını, geçişleri ve bakım ihtiyacını planlamak için bir başlangıç rehberi.",
+      "ogImage": "http://localhost:3000/images/hero.webp",
+      "twitterTitle": "Bahçe düzenlemesine nereden başlamalı? | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [
+        "BlogPosting"
+      ],
+      "missingAlt": 0
+    },
+    {
+      "path": "/blog/cim-bicerken-nelere-dikkat-edilmeli",
+      "status": 200,
+      "title": "Çim biçerken nelere dikkat edilmeli? | Gültekin Peyzaj",
+      "description": "Çim biçme yüksekliği, zemin koşulları ve bakım sıklığı hakkında temel bilgiler.",
+      "ogTitle": "Çim biçerken nelere dikkat edilmeli? | Gültekin Peyzaj",
+      "ogDescription": "Çim biçme yüksekliği, zemin koşulları ve bakım sıklığı hakkında temel bilgiler.",
+      "ogImage": "http://localhost:3000/images/lawn.webp",
+      "twitterTitle": "Çim biçerken nelere dikkat edilmeli? | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [
+        "BlogPosting"
+      ],
+      "missingAlt": 0
+    },
+    {
+      "path": "/blog/bahce-sulamasinda-dogru-aliskanliklar",
+      "status": 200,
+      "title": "Bahçe sulamasında doğru alışkanlıklar | Gültekin Peyzaj",
+      "description": "Sulama ihtiyacını toprağa, bitkiye ve hava koşullarına göre değerlendirmek için pratik notlar.",
+      "ogTitle": "Bahçe sulamasında doğru alışkanlıklar | Gültekin Peyzaj",
+      "ogDescription": "Sulama ihtiyacını toprağa, bitkiye ve hava koşullarına göre değerlendirmek için pratik notlar.",
+      "ogImage": "http://localhost:3000/images/garden.webp",
+      "twitterTitle": "Bahçe sulamasında doğru alışkanlıklar | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [
+        "BlogPosting"
+      ],
+      "missingAlt": 0
+    },
+    {
+      "path": "/blog/budama-zamani-her-bitkide-ayni-degil",
+      "status": 200,
+      "title": "Budama zamanı her bitkide aynı değil | Gültekin Peyzaj",
+      "description": "Budama öncesinde bitkinin türünü ve çiçeklenme dönemini bilmenin neden önemli olduğu üzerine.",
+      "ogTitle": "Budama zamanı her bitkide aynı değil | Gültekin Peyzaj",
+      "ogDescription": "Budama öncesinde bitkinin türünü ve çiçeklenme dönemini bilmenin neden önemli olduğu üzerine.",
+      "ogImage": "http://localhost:3000/images/pruning.webp",
+      "twitterTitle": "Budama zamanı her bitkide aynı değil | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [
+        "BlogPosting"
+      ],
+      "missingAlt": 0
+    },
+    {
+      "path": "/blog/sonbaharda-cim-bakimi",
+      "status": 200,
+      "title": "Sonbaharda çim alanı gözden geçirmek | Gültekin Peyzaj",
+      "description": "Yazın ardından çim alandaki seyrelme, birikinti ve sıkışmayı değerlendirmek için bakım notları.",
+      "ogTitle": "Sonbaharda çim alanı gözden geçirmek | Gültekin Peyzaj",
+      "ogDescription": "Yazın ardından çim alandaki seyrelme, birikinti ve sıkışmayı değerlendirmek için bakım notları.",
+      "ogImage": "http://localhost:3000/images/trees.webp",
+      "twitterTitle": "Sonbaharda çim alanı gözden geçirmek | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [
+        "BlogPosting"
+      ],
+      "missingAlt": 0
+    },
+    {
+      "path": "/blog/bitki-secmeden-once-topragi-taniyin",
+      "status": 200,
+      "title": "Bitki seçmeden önce toprağı tanıyın | Gültekin Peyzaj",
+      "description": "Killi ve kumlu toprağın farkları, bahçeyi gözlemleme ve bitki seçimi üzerine temel bilgiler.",
+      "ogTitle": "Bitki seçmeden önce toprağı tanıyın | Gültekin Peyzaj",
+      "ogDescription": "Killi ve kumlu toprağın farkları, bahçeyi gözlemleme ve bitki seçimi üzerine temel bilgiler.",
+      "ogImage": "http://localhost:3000/images/garden.webp",
+      "twitterTitle": "Bitki seçmeden önce toprağı tanıyın | Gültekin Peyzaj",
+      "h1Count": 1,
+      "lang": "tr",
+      "canonical": [],
+      "schemaTypes": [
+        "BlogPosting"
+      ],
+      "missingAlt": 0
+    }
+  ],
+  "brokenInternalLinksOrMetadata": [],
+  "robots": "User-Agent: *\nAllow: /\n\n",
+  "sitemapWithoutDomain": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n</urlset>\n",
+  "notFoundStatus": 404,
+  "titlesAndDescriptionsUnique": true
+}

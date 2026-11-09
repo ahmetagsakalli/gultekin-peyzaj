@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/videos/garden-path-loop.mp4",
+    "status": 200,
+    "type": "video/mp4",
+    "bytes": "6589561"
+  },
+  {
+    "path": "/videos/garden-portrait-loop.mp4",
+    "status": 200,
+    "type": "video/mp4",
+    "bytes": "3012324"
+  },
+  {
+    "path": "/icon.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": "17845"
+  },
+  {
+    "path": "/apple-icon.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": "16048"
+  },
+  {
+    "path": "/opengraph-image",
+    "status": 200,
+    "type": "image/png",
+    "bytes": "50534"
+  }
+]

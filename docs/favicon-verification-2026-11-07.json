@@ -1,0 +1,31 @@
+{
+  "site": "https://gultekin-peyzaj.vercel.app",
+  "icons": [
+    "<link rel=\"icon\" href=\"/favicon.ico?favicon.3szv_e8c6guux.ico\" sizes=\"48x48\" type=\"image/x-icon\"/>",
+    "<link rel=\"icon\" href=\"/icon.png?icon.0jmt5owvxu-wy.png\" sizes=\"192x192\" type=\"image/png\"/>",
+    "<link rel=\"apple-touch-icon\" href=\"/apple-icon.png?apple-icon.0vu955i75elga.png\" sizes=\"180x180\" type=\"image/png\"/>"
+  ],
+  "assets": [
+    {
+      "file": "favicon.ico",
+      "status": 200,
+      "bytes": 5920,
+      "type": "image/vnd.microsoft.icon",
+      "matchesLocal": true
+    },
+    {
+      "file": "icon.png",
+      "status": 200,
+      "bytes": 17845,
+      "type": "image/png",
+      "matchesLocal": true
+    },
+    {
+      "file": "apple-icon.png",
+      "status": 200,
+      "bytes": 16048,
+      "type": "image/png",
+      "matchesLocal": true
+    }
+  ]
+}

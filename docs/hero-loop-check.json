@@ -1,0 +1,20 @@
+{
+  "garden-path-loop.mp4": {
+    "bytes": 6589561,
+    "frames": 588,
+    "durationSeconds": 23.52,
+    "seamMeanLumaDifference": 1.0092,
+    "turnMeanLumaDifference": 0.0599,
+    "normalMotionMeanLumaDifference": 1.6497,
+    "forwardReverseMatchMeanLumaDifference": 1.0051
+  },
+  "garden-portrait-loop.mp4": {
+    "bytes": 3012324,
+    "frames": 588,
+    "durationSeconds": 23.52,
+    "seamMeanLumaDifference": 1.1164,
+    "turnMeanLumaDifference": 0.0955,
+    "normalMotionMeanLumaDifference": 2.3664,
+    "forwardReverseMatchMeanLumaDifference": 1.0903
+  }
+}

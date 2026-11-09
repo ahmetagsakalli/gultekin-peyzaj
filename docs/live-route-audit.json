@@ -1,0 +1,96 @@
+{
+  "base": "https://gultekin-peyzaj.vercel.app",
+  "routes": [
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/hizmetler",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/hizmetler",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/hakkimizda",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/hakkimizda",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/blog",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/iletisim",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/iletisim",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/blog/bahce-duzenlemesine-nereden-baslamali",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/bahce-duzenlemesine-nereden-baslamali",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/blog/cim-bicerken-nelere-dikkat-edilmeli",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/cim-bicerken-nelere-dikkat-edilmeli",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/blog/bahce-sulamasinda-dogru-aliskanliklar",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/bahce-sulamasinda-dogru-aliskanliklar",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/blog/budama-zamani-her-bitkide-ayni-degil",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/budama-zamani-her-bitkide-ayni-degil",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/blog/sonbaharda-cim-bakimi",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/sonbaharda-cim-bakimi",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/blog/bitki-secmeden-once-topragi-taniyin",
+      "status": 200,
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/bitki-secmeden-once-topragi-taniyin",
+      "h1": 1,
+      "lang": "tr",
+      "errors": []
+    }
+  ],
+  "robots": "User-Agent: *\nAllow: /\n\nSitemap: https://gultekin-peyzaj.vercel.app/sitemap.xml\n",
+  "missingPageStatus": 404,
+  "sitemapCount": 11
+}

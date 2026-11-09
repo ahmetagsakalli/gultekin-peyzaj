@@ -1,0 +1,63 @@
+{
+  "testOnlyDomain": "https://seo-audit.invalid",
+  "note": "Yalnızca derleme testi; gerçek site alan adı değildir. Test sonunda SITE_URL boş olarak derlendi.",
+  "pages": [
+    {
+      "path": "/blog",
+      "canonical": "https://seo-audit.invalid/blog",
+      "ogUrl": "https://seo-audit.invalid/blog"
+    },
+    {
+      "path": "/",
+      "canonical": "https://seo-audit.invalid",
+      "ogUrl": "https://seo-audit.invalid"
+    },
+    {
+      "path": "/hakkimizda",
+      "canonical": "https://seo-audit.invalid/hakkimizda",
+      "ogUrl": "https://seo-audit.invalid/hakkimizda"
+    },
+    {
+      "path": "/hizmetler",
+      "canonical": "https://seo-audit.invalid/hizmetler",
+      "ogUrl": "https://seo-audit.invalid/hizmetler"
+    },
+    {
+      "path": "/iletisim",
+      "canonical": "https://seo-audit.invalid/iletisim",
+      "ogUrl": "https://seo-audit.invalid/iletisim"
+    },
+    {
+      "path": "/blog/budama-zamani-her-bitkide-ayni-degil",
+      "canonical": "https://seo-audit.invalid/blog/budama-zamani-her-bitkide-ayni-degil",
+      "ogUrl": "https://seo-audit.invalid/blog/budama-zamani-her-bitkide-ayni-degil"
+    },
+    {
+      "path": "/blog/bahce-sulamasinda-dogru-aliskanliklar",
+      "canonical": "https://seo-audit.invalid/blog/bahce-sulamasinda-dogru-aliskanliklar",
+      "ogUrl": "https://seo-audit.invalid/blog/bahce-sulamasinda-dogru-aliskanliklar"
+    },
+    {
+      "path": "/blog/bahce-duzenlemesine-nereden-baslamali",
+      "canonical": "https://seo-audit.invalid/blog/bahce-duzenlemesine-nereden-baslamali",
+      "ogUrl": "https://seo-audit.invalid/blog/bahce-duzenlemesine-nereden-baslamali"
+    },
+    {
+      "path": "/blog/cim-bicerken-nelere-dikkat-edilmeli",
+      "canonical": "https://seo-audit.invalid/blog/cim-bicerken-nelere-dikkat-edilmeli",
+      "ogUrl": "https://seo-audit.invalid/blog/cim-bicerken-nelere-dikkat-edilmeli"
+    },
+    {
+      "path": "/blog/sonbaharda-cim-bakimi",
+      "canonical": "https://seo-audit.invalid/blog/sonbaharda-cim-bakimi",
+      "ogUrl": "https://seo-audit.invalid/blog/sonbaharda-cim-bakimi"
+    },
+    {
+      "path": "/blog/bitki-secmeden-once-topragi-taniyin",
+      "canonical": "https://seo-audit.invalid/blog/bitki-secmeden-once-topragi-taniyin",
+      "ogUrl": "https://seo-audit.invalid/blog/bitki-secmeden-once-topragi-taniyin"
+    }
+  ],
+  "sitemapCount": 11,
+  "robotsSitemapCorrect": true
+}

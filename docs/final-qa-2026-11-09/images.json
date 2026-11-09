@@ -1,0 +1,106 @@
+[
+  {
+    "name": "autumn.webp",
+    "bytes": 221366,
+    "width": 1200,
+    "height": 801,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "garden-poster-mobile.webp",
+    "bytes": 157496,
+    "width": 608,
+    "height": 1080,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "garden-poster.webp",
+    "bytes": 527440,
+    "width": 1920,
+    "height": 1080,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "garden.webp",
+    "bytes": 215844,
+    "width": 1200,
+    "height": 800,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "hero.webp",
+    "bytes": 478654,
+    "width": 1920,
+    "height": 1280,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "lawn.webp",
+    "bytes": 214954,
+    "width": 1200,
+    "height": 800,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "logo.webp",
+    "bytes": 285506,
+    "width": 800,
+    "height": 720,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "mowing.webp",
+    "bytes": 229936,
+    "width": 1200,
+    "height": 560,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "pruning-action.webp",
+    "bytes": 74112,
+    "width": 1200,
+    "height": 800,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "pruning.webp",
+    "bytes": 112140,
+    "width": 1200,
+    "height": 901,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "soil.webp",
+    "bytes": 118058,
+    "width": 1200,
+    "height": 800,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "trees.webp",
+    "bytes": 426532,
+    "width": 1200,
+    "height": 1799,
+    "format": "webp",
+    "decoded": true
+  },
+  {
+    "name": "watering.webp",
+    "bytes": 95056,
+    "width": 1200,
+    "height": 1600,
+    "format": "webp",
+    "decoded": true
+  }
+]

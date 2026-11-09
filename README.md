@@ -41,9 +41,13 @@ Metinler ve panel kayıtları Neon PostgreSQL üzerinde; panelden yüklenen gör
 - `src/lib/content.ts`, `src/lib/blog.ts`: Varsayılan içerik.
 - `src/lib/admin`: Panel yetkilendirmesi ve içerik işlemleri.
 - `public/images`, `public/videos`, `src/fonts`: Yerel WebP görseller, hero video döngüleri ve yazı tipleri.
+- `assets/source`: Ham medya arşivindeki 29 kaynak dosyanın tamamı.
+- `docs`: 197 doküman, ayrıntılı Lighthouse raporu ve ekran görüntüsü.
 - `deploy`: Nginx ve systemd örnekleri.
 - `tests`, `scripts`: Testler ve geliştirme araçları.
 - `backups`: İçerik yedeği ve canlı sürüm dosya doğrulama listesi.
+
+Görsel üretim araçları repo içindeki ham kaynakları kullanır: `npm run optimize:images`, `npm run optimize:favicon`. Video döngüsünü FFmpeg ile üretmek için `npm run optimize:video -- assets/source/revision/garden-path-source.mp4` çalıştırılır.
 
 Stok görseller tamamlanmış işletme projeleri olarak sunulmaz. Görsel kaynakları `docs/image-sources.json`, ikon kaynakları `docs/icon-license.md`, font lisansı `src/fonts/OFL.txt` içindedir. Hero videoları ve tüm yayın görselleri hazır olarak repoda bulunur; kurulum için yeniden üretilmeleri gerekmez.
 

@@ -1,0 +1,208 @@
+{
+  "base": "https://gultekin-peyzaj.vercel.app",
+  "checkedAt": "2026-11-09T08:10:32.128Z",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Gültekin Peyzaj | Samsun Peyzaj ve Bahçe Bakımı",
+      "description": "Samsun ve çevresinde peyzaj tasarım ve uygulama, periyodik bahçe bakımı ve budama. Gültekin Peyzaj, Atakum.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/",
+      "h1": "Doğayadeğer katarız.",
+      "images": 14
+    },
+    {
+      "path": "/hizmetler",
+      "status": 200,
+      "title": "Samsun Peyzaj ve Bahçe Bakım Hizmetleri | Gültekin Peyzaj",
+      "description": "Samsun’da peyzaj tasarım ve uygulama, periyodik bahçe bakımı, çim biçme, sulama ve budama hizmetleri.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/hizmetler",
+      "h1": "Bahçenize gerekenilgi ve bakım.",
+      "images": 5
+    },
+    {
+      "path": "/hakkimizda",
+      "status": 200,
+      "title": "Hakkımızda | Gültekin Peyzaj",
+      "description": "Gültekin Peyzaj ve Eren Gültekin. Atakum merkezli, Samsun ve çevresinde peyzaj, bahçe bakımı ve budama.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/hakkimizda",
+      "h1": "GültekinPeyzaj",
+      "images": 3
+    },
+    {
+      "path": "/blog",
+      "status": 200,
+      "title": "Bahçe Bakımı ve Peyzaj Blogu | Gültekin Peyzaj",
+      "description": "Bahçe düzenleme, çim bakımı, sulama, budama ve toprak hakkında Gültekin Peyzaj blog yazıları.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog",
+      "h1": "Bahçedennotlar.",
+      "images": 8
+    },
+    {
+      "path": "/iletisim",
+      "status": 200,
+      "title": "İletişim | Gültekin Peyzaj",
+      "description": "Gültekin Peyzaj ile iletişime geçin. Telefon ve WhatsApp: 0545 951 23 53. Atakum / Samsun.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/iletisim",
+      "h1": "Bahçeniz içinkonuşalım.",
+      "images": 2
+    },
+    {
+      "path": "/blog/bahce-duzenlemesine-nereden-baslamali",
+      "status": 200,
+      "title": "Bahçe düzenlemesine nereden başlamalı? | Gültekin Peyzaj",
+      "description": "Bahçeyi düzenlemeden önce kullanım alanlarını, geçişleri ve bakım ihtiyacını planlamak için bir başlangıç rehberi.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/bahce-duzenlemesine-nereden-baslamali",
+      "h1": "Bahçe düzenlemesine nereden başlamalı?",
+      "images": 6
+    },
+    {
+      "path": "/blog/cim-bicerken-nelere-dikkat-edilmeli",
+      "status": 200,
+      "title": "Çim biçerken nelere dikkat edilmeli? | Gültekin Peyzaj",
+      "description": "Çim biçme yüksekliği, zemin koşulları ve bakım sıklığı hakkında temel bilgiler.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/cim-bicerken-nelere-dikkat-edilmeli",
+      "h1": "Çim biçerken nelere dikkat edilmeli?",
+      "images": 6
+    },
+    {
+      "path": "/blog/bahce-sulamasinda-dogru-aliskanliklar",
+      "status": 200,
+      "title": "Bahçe sulamasında doğru alışkanlıklar | Gültekin Peyzaj",
+      "description": "Sulama ihtiyacını toprağa, bitkiye ve hava koşullarına göre değerlendirmek için pratik notlar.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/bahce-sulamasinda-dogru-aliskanliklar",
+      "h1": "Bahçe sulamasında doğru alışkanlıklar",
+      "images": 6
+    },
+    {
+      "path": "/blog/budama-zamani-her-bitkide-ayni-degil",
+      "status": 200,
+      "title": "Budama zamanı her bitkide aynı değil | Gültekin Peyzaj",
+      "description": "Budama öncesinde bitkinin türünü ve çiçeklenme dönemini bilmenin neden önemli olduğu üzerine.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/budama-zamani-her-bitkide-ayni-degil",
+      "h1": "Budama zamanı her bitkide aynı değil",
+      "images": 6
+    },
+    {
+      "path": "/blog/sonbaharda-cim-bakimi",
+      "status": 200,
+      "title": "Sonbaharda çim alanı gözden geçirmek | Gültekin Peyzaj",
+      "description": "Yazın ardından çim alandaki seyrelme, birikinti ve sıkışmayı değerlendirmek için bakım notları.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/sonbaharda-cim-bakimi",
+      "h1": "Sonbaharda çim alanı gözden geçirmek",
+      "images": 6
+    },
+    {
+      "path": "/blog/bitki-secmeden-once-topragi-taniyin",
+      "status": 200,
+      "title": "Bitki seçmeden önce toprağı tanıyın | Gültekin Peyzaj",
+      "description": "Killi ve kumlu toprağın farkları, bahçeyi gözlemleme ve bitki seçimi üzerine temel bilgiler.",
+      "canonical": "https://gultekin-peyzaj.vercel.app/blog/bitki-secmeden-once-topragi-taniyin",
+      "h1": "Bitki seçmeden önce toprağı tanıyın",
+      "images": 6
+    }
+  ],
+  "failures": [],
+  "assets": [
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Flogo.webp&w=3840&q=75",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "52434"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fgarden-poster.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "407756"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fhero.webp&w=3840&q=75",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": "478654"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fgarden.webp&w=3840&q=75",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "189172"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fmowing.webp&w=3840&q=75",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "202742"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fpruning-action.webp&w=3840&q=75",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": "74112"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fsoil.webp&w=3840&q=75",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": "118058"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Ftrees.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "350973"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fmowing.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "166680"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fwatering.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": "95056"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fgarden.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "153388"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fpruning-action.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/webp",
+      "bytes": "74112"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Flawn.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "149533"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fautumn.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "184561"
+    },
+    {
+      "url": "https://gultekin-peyzaj.vercel.app/_next/image?url=%2Fimages%2Fsoil.webp&w=3840&q=65",
+      "status": 200,
+      "type": "image/jpeg",
+      "bytes": "108656"
+    }
+  ],
+  "security": [
+    {
+      "path": "/api/admin/content",
+      "status": 401
+    },
+    {
+      "path": "/api/admin/publishing",
+      "status": 401
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "home",
+    "path": "/",
+    "device": "mobile",
+    "scores": {
+      "performance": 76,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 1048.796,
+    "cls": 0,
+    "tbt": 1186
+  },
+  {
+    "name": "home-desktop",
+    "path": "/",
+    "device": "desktop",
+    "scores": {
+      "performance": 75,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 579.2909999999999,
+    "cls": 0,
+    "tbt": 625
+  },
+  {
+    "name": "services",
+    "path": "/hizmetler",
+    "device": "mobile",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 1863.632,
+    "cls": 0,
+    "tbt": 61
+  },
+  {
+    "name": "about",
+    "path": "/hakkimizda",
+    "device": "mobile",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 2201.056,
+    "cls": 0,
+    "tbt": 42
+  },
+  {
+    "name": "contact",
+    "path": "/iletisim",
+    "device": "mobile",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 930,
+    "cls": 0,
+    "tbt": 66
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "device": "mobile",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 2331.0945,
+    "cls": 0,
+    "tbt": 36.5
+  },
+  {
+    "name": "article",
+    "path": "/blog/cim-bicerken-nelere-dikkat-edilmeli",
+    "device": "mobile",
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "lcp": 2196.1324999999997,
+    "cls": 0,
+    "tbt": 175.99999999999977
+  }
+]

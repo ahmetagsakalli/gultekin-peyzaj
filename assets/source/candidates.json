@@ -1,0 +1,23 @@
+[
+  {
+    "name": "candidate-a",
+    "page": "https://unsplash.com/photos/lush-green-garden-with-mature-trees-and-manicured-lawn-lDqVLNfCMJc",
+    "author": "Declan Sun",
+    "image": "https://images.unsplash.com/photo-1764208637294-49d0eccacf40?w=2400&q=90&fit=max&fm=jpg",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "name": "candidate-b",
+    "page": "https://unsplash.com/photos/lush-green-lawn-surrounded-by-trees-and-rocks-5-JbuE28asU",
+    "author": "franci ee",
+    "image": "https://images.unsplash.com/photo-1776487875165-75fcbecf9a34?w=2400&q=90&fit=max&fm=jpg",
+    "license": "https://unsplash.com/license"
+  },
+  {
+    "name": "candidate-c",
+    "page": "https://unsplash.com/photos/modern-backyard-with-a-pergola-and-green-lawn-WsJ5l6btjvs",
+    "author": "Kyle Ledyard",
+    "image": "https://images.unsplash.com/photo-1755816764913-bd1104a26d78?w=2400&q=90&fit=max&fm=jpg",
+    "license": "https://unsplash.com/license"
+  }
+]

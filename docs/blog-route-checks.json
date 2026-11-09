@@ -1,0 +1,68 @@
+[
+  {
+    "route": "/",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/hizmetler",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/hakkimizda",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/iletisim",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/blog",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/blog/bahce-duzenlemesine-nereden-baslamali",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/blog/cim-bicerken-nelere-dikkat-edilmeli",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/blog/bahce-sulamasinda-dogru-aliskanliklar",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/blog/budama-zamani-her-bitkide-ayni-degil",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/blog/sonbaharda-cim-bakimi",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  },
+  {
+    "route": "/blog/bitki-secmeden-once-topragi-taniyin",
+    "status": 200,
+    "h1": 1,
+    "removedCallout": true
+  }
+]

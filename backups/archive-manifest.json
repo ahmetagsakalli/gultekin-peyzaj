@@ -1,0 +1,1135 @@
+{
+  "date": "2026-11-09",
+  "files": [
+    {
+      "file": "docs/ADMIN-SERVICES.md",
+      "bytes": 1829,
+      "sha256": "37ac63c6ab18821b1402ca1ebf76423832e0302f69a69b52b671cb3449de5e7e"
+    },
+    {
+      "file": "docs/ADMIN.md",
+      "bytes": 3795,
+      "sha256": "920067f7cb3ec5191e8195bf8b4aad7aacbbdffc9088ffb725b51fb1fb7970cf"
+    },
+    {
+      "file": "docs/admin-included-services-live-2026-11-09.png",
+      "bytes": 91799,
+      "sha256": "91738fbdb7e0c7ab9ff6942fd0a04ed6eaa626f94c152fc9e1fd0b159029cdb4"
+    },
+    {
+      "file": "docs/admin-live-2026-11-09.png",
+      "bytes": 75326,
+      "sha256": "282063a19bc7d3b84a9cc2dd43ab1857b01f6d166faf18aef442a8a9fb7f5d13"
+    },
+    {
+      "file": "docs/admin-services-live-2026-11-09.png",
+      "bytes": 148242,
+      "sha256": "e28dd8a5bffb0e4ca0d8dd1576e549d26a864285ad7eeb5d740809a8e011f17e"
+    },
+    {
+      "file": "docs/admin-simple-image-editor-2026-11-09.png",
+      "bytes": 58491,
+      "sha256": "0881f6815a76e189860c6604eea1941a42bd25c06c29f31d8b0c3e02b1da5c47"
+    },
+    {
+      "file": "docs/audit-avif-cold-blog.report.html",
+      "bytes": 789414,
+      "sha256": "5764b777ca9ce93c53dc23390fce68c1d6d04f9b4aa57c9968aea7779001f8dd"
+    },
+    {
+      "file": "docs/audit-avif-cold-blog.report.json",
+      "bytes": 706701,
+      "sha256": "276c64b6c40424790f2eb0fe1761a5ef1251453dca5738885e00df4b3167aed1"
+    },
+    {
+      "file": "docs/audit-avif-cold-services.report.html",
+      "bytes": 742680,
+      "sha256": "24c5839353164a1232ba734b31d9b877b5334a0df658269a1d2473efd98f75ee"
+    },
+    {
+      "file": "docs/audit-avif-cold-services.report.json",
+      "bytes": 657702,
+      "sha256": "01b9336417948ca74c87475882da007fca42fc880d83ceca589c8fceb65165cc"
+    },
+    {
+      "file": "docs/audit-baseline-about.report.html",
+      "bytes": 799865,
+      "sha256": "50c16bed7eae8a2d3c751431417db10695ee63cb145f830bc615deb75f54e1b6"
+    },
+    {
+      "file": "docs/audit-baseline-about.report.json",
+      "bytes": 714432,
+      "sha256": "73bd71e390cd5b28eb40e90b8f37484a8a3450382185bf5a3ae0c1e3948c7aff"
+    },
+    {
+      "file": "docs/audit-baseline-article.report.html",
+      "bytes": 908111,
+      "sha256": "b510ffee9c19af50f0939d5a5cd120931045ea712e1358ee3021311bdc5cb7e5"
+    },
+    {
+      "file": "docs/audit-baseline-article.report.json",
+      "bytes": 826575,
+      "sha256": "be11d24456349c24facadf8f4d2de43dc3672fd996dfadc0df9e284ee4f32e82"
+    },
+    {
+      "file": "docs/audit-baseline-blog.report.html",
+      "bytes": 799059,
+      "sha256": "0d10dfb892b585cf93a1eb4c5b9d2acf12f4b51207f5ff580a0f4e31f57be754"
+    },
+    {
+      "file": "docs/audit-baseline-blog.report.json",
+      "bytes": 720145,
+      "sha256": "1399318f0eb83bc689a6050169dc75a4884ea7eeaea6ff3591d764c74310d864"
+    },
+    {
+      "file": "docs/audit-baseline-contact.report.html",
+      "bytes": 626729,
+      "sha256": "fb449a2883041ae0b4a50daaabbd91dff994518a892eed73063f02bb525482a3"
+    },
+    {
+      "file": "docs/audit-baseline-contact.report.json",
+      "bytes": 541026,
+      "sha256": "f4ee15871d2a1bd4725ca7f288c872301a1b82fccff942492d6ec6a029323a5f"
+    },
+    {
+      "file": "docs/audit-baseline-desktop.report.html",
+      "bytes": 1109707,
+      "sha256": "be11d2325cb2c84a6a6da9b460b0e350542a84b0e691cef3bed88e69512a0c71"
+    },
+    {
+      "file": "docs/audit-baseline-desktop.report.json",
+      "bytes": 1034818,
+      "sha256": "78e3ac886959ac421526e0a708b6e073300a39f28490193d30340783e1332eb2"
+    },
+    {
+      "file": "docs/audit-baseline-mobile.report.html",
+      "bytes": 864854,
+      "sha256": "1e0262b4baa882543300346fd6f2c3023b7df71d28da9073b0fa2876dbd8cc7f"
+    },
+    {
+      "file": "docs/audit-baseline-mobile.report.json",
+      "bytes": 788124,
+      "sha256": "66a483c4b9348ca42b529674beb8dfde7100bca49a2f789f53d69d8d8a44cf84"
+    },
+    {
+      "file": "docs/audit-baseline-services.report.html",
+      "bytes": 763536,
+      "sha256": "1e3552ca176c8c61a2c629178c0e8cdd3ab0abdbf2aaffffbcadd918f4ef7293"
+    },
+    {
+      "file": "docs/audit-baseline-services.report.json",
+      "bytes": 680008,
+      "sha256": "79a443d51f8d6ebb06a4d3d29702f9599adaba9c9e823757528545d1f90d5e04"
+    },
+    {
+      "file": "docs/audit-final-about.report.html",
+      "bytes": 790509,
+      "sha256": "2ea74cf1adfb8b10f0af2d170439cddf736c9b0fcf7edd9885af8aab86eb8f46"
+    },
+    {
+      "file": "docs/audit-final-about.report.json",
+      "bytes": 703201,
+      "sha256": "674e8e7a25da2c68d0dcc54a45520cc4e6fe0585b9d3a5dd7b5f71fbc08d1bfb"
+    },
+    {
+      "file": "docs/audit-final-article-1.report.html",
+      "bytes": 898482,
+      "sha256": "a7768ad47bbc32f22ba5d0cc7f1a681532f2dac4dc753567018c73915d6ff70a"
+    },
+    {
+      "file": "docs/audit-final-article-1.report.json",
+      "bytes": 815177,
+      "sha256": "aa29403aa9933925b896ed3fdc5e0079c5c18fdf4e739ea999dec57a80b766b3"
+    },
+    {
+      "file": "docs/audit-final-article-2.report.html",
+      "bytes": 829118,
+      "sha256": "f9c9b9bd8fcb6d167d14e3dfc06e27f1114431e63ec46cbf787bb201d75905f4"
+    },
+    {
+      "file": "docs/audit-final-article-2.report.json",
+      "bytes": 745791,
+      "sha256": "d697bb10da8f0dc85ac2489bdb4f9c593b84655d70c6db349d212120a9b74c7a"
+    },
+    {
+      "file": "docs/audit-final-article-3.report.html",
+      "bytes": 832501,
+      "sha256": "7fb9dd102dda39949c520edb0111e7dfc88aa9cb9a2e6f7f86ad96e59a123212"
+    },
+    {
+      "file": "docs/audit-final-article-3.report.json",
+      "bytes": 749274,
+      "sha256": "ceff8eec2ac5a23233879d02852caceae06069fa9bb06ac0366087aa6436e070"
+    },
+    {
+      "file": "docs/audit-final-article-4.report.html",
+      "bytes": 844901,
+      "sha256": "97a3bf8b726b8bf4aeb03ba473f22e080c5dd7841f68d72b47998c8b15ec084e"
+    },
+    {
+      "file": "docs/audit-final-article-4.report.json",
+      "bytes": 761048,
+      "sha256": "7e9ba60cd52584c1fd1385a7a9b4a1dffb8906969666f62c4cef5257f731617c"
+    },
+    {
+      "file": "docs/audit-final-article-5.report.html",
+      "bytes": 880674,
+      "sha256": "8c7bb55695cedb81446fed8bf679de32ee5a38067390074f40e27eb7b6b8b64d"
+    },
+    {
+      "file": "docs/audit-final-article-5.report.json",
+      "bytes": 797482,
+      "sha256": "496646a22a4e41770223cd2ff58de96a945f8ed60509e7ceff14ade87c917958"
+    },
+    {
+      "file": "docs/audit-final-article-6.report.html",
+      "bytes": 838429,
+      "sha256": "4b18b681d1b1aaf92a14415fe5ad420f769d0111bfc1c22bf3cb6795664a7543"
+    },
+    {
+      "file": "docs/audit-final-article-6.report.json",
+      "bytes": 754866,
+      "sha256": "05e103efe7f22bd0736a5940e8ede886f0ed6ebbf21136256f4adc5b28e4ef20"
+    },
+    {
+      "file": "docs/audit-final-blog.report.html",
+      "bytes": 789442,
+      "sha256": "e462221da9bbbf69d652aed3692edb02453d7e68acce0440100efdcc15d8b148"
+    },
+    {
+      "file": "docs/audit-final-blog.report.json",
+      "bytes": 706729,
+      "sha256": "1006537dd646a9900993f18c806cd60d37f13c1d5e262b6e2f9b1df3c90b215b"
+    },
+    {
+      "file": "docs/audit-final-contact.report.html",
+      "bytes": 623558,
+      "sha256": "182b52a71df928df4a1e9f4accec7422b73256604e12275237f20e54c44048c2"
+    },
+    {
+      "file": "docs/audit-final-contact.report.json",
+      "bytes": 536784,
+      "sha256": "750e09977f4ddd7d9f1375ef24d7959fe58f2cd2a32328dea86194fb7154a711"
+    },
+    {
+      "file": "docs/audit-final-desktop.report.html",
+      "bytes": 1063698,
+      "sha256": "43d359e1306f466d9092dbc700ae8ea15a6db03a0ce1a6d6cba00aee5d932e4d"
+    },
+    {
+      "file": "docs/audit-final-desktop.report.json",
+      "bytes": 988191,
+      "sha256": "3a37c929d2caa629e1fd70cd9c18d0058aaa378bdd08c40a7620aa85dc5a7714"
+    },
+    {
+      "file": "docs/audit-final-mobile-1.report.html",
+      "bytes": 835896,
+      "sha256": "a0d69e4f2d712c084c2a865901d17bec27c593f0287da8138c127189917fccf7"
+    },
+    {
+      "file": "docs/audit-final-mobile-1.report.json",
+      "bytes": 758114,
+      "sha256": "01b7b7fa0d5cfe81ccf7ee61e9673f586e63a0d50814c433cd7edf337558890a"
+    },
+    {
+      "file": "docs/audit-final-mobile-2.report.html",
+      "bytes": 854627,
+      "sha256": "8ea32fea5f0f43b61b12f222a6bbea4e53e3e40813c770734fe9ac3c6ee17f69"
+    },
+    {
+      "file": "docs/audit-final-mobile-2.report.json",
+      "bytes": 776368,
+      "sha256": "e8d2c3c21f506701ad5cd88bd0a1850b7d13d772a2de04e5b54bf46c682198c1"
+    },
+    {
+      "file": "docs/audit-final-mobile-3.report.html",
+      "bytes": 854217,
+      "sha256": "b1a6f18f96fdf7765c62fd0918c0dd49b02c086e4112958afe5517741b8c925b"
+    },
+    {
+      "file": "docs/audit-final-mobile-3.report.json",
+      "bytes": 775562,
+      "sha256": "1a31c101fdd59a48a1f003f7c614c55aa8dbf8e9529b15220c864768aa4d574e"
+    },
+    {
+      "file": "docs/audit-final-services.report.html",
+      "bytes": 758293,
+      "sha256": "8b6d114662747c3f4335591a7e26775a12e2b0d241355a8fce392da4bf57ba96"
+    },
+    {
+      "file": "docs/audit-final-services.report.json",
+      "bytes": 672845,
+      "sha256": "3e482adccfe12ee019ad802d3b0013a9db67ffc0c10b1fb6ea11dadaddb94858"
+    },
+    {
+      "file": "docs/audit-priority-about.report.html",
+      "bytes": 800763,
+      "sha256": "2d2df6cacf6c58eda2ec0255db8a2f0d916d9c18fe04757e94a20090909c48cb"
+    },
+    {
+      "file": "docs/audit-priority-about.report.json",
+      "bytes": 716141,
+      "sha256": "4f7d89f440259611b4167fe5f35e909d78876277761163dfc74a8f55ed0d673a"
+    },
+    {
+      "file": "docs/audit-priority-article.report.html",
+      "bytes": 907936,
+      "sha256": "9a1b6dac010c4db358ccb64add14c7a754f629be45721f9f005a5f7db3ddb3f9"
+    },
+    {
+      "file": "docs/audit-priority-article.report.json",
+      "bytes": 826503,
+      "sha256": "1ec0d6a53e75c51956796d7e291d8351f39e9afe711d03ff7b75b98bf4b1490f"
+    },
+    {
+      "file": "docs/audit-priority-blog.report.html",
+      "bytes": 798320,
+      "sha256": "b8c0ec2e72f7a9daff815cc9e320fe0d30e49c2eebd8ea31b2a9812d75cf4c5a"
+    },
+    {
+      "file": "docs/audit-priority-blog.report.json",
+      "bytes": 718810,
+      "sha256": "ca87c50e1c3e69c42af7d26dcad6fe137cea8140e2afc6c77c5d3df47491627c"
+    },
+    {
+      "file": "docs/audit-priority-services.report.html",
+      "bytes": 764265,
+      "sha256": "691bf11e9afd422a25e7dadf9ac8513af5151b5dc971817508ace39512b4aeb3"
+    },
+    {
+      "file": "docs/audit-priority-services.report.json",
+      "bytes": 681226,
+      "sha256": "230093a81c5ae1ca8c4251f429780b8fb260e494454efef4ae1556affc3c682c"
+    },
+    {
+      "file": "docs/blog-revision-desktop.report.html",
+      "bytes": 1092370,
+      "sha256": "c5629e605b50c95c62bd442bb641955dea2f574421270105fe4509b80a65a724"
+    },
+    {
+      "file": "docs/blog-revision-desktop.report.json",
+      "bytes": 1014244,
+      "sha256": "1857d3c2b164d794e347d9b53246318ab5d13088f4e71936af2ac8b2bbf30215"
+    },
+    {
+      "file": "docs/blog-route-checks.json",
+      "bytes": 1211,
+      "sha256": "b24b2a96a8dd4cb07cc6e113098777b2bbbc46207016324d6f09a9c601c9e0c2"
+    },
+    {
+      "file": "docs/contact-update-2026-11-07.json",
+      "bytes": 4316,
+      "sha256": "f58bae51ac4e9a07b719a75ced99b16b9c05ff978e6fec672570851ab4b897e8"
+    },
+    {
+      "file": "docs/contact-update-lighthouse-2026-11-07.report.html",
+      "bytes": 607079,
+      "sha256": "f4338b1023a54d9ca8e8f202c1f8f0926712aa4261a39f10134acb6cb18f66d4"
+    },
+    {
+      "file": "docs/contact-update-lighthouse-2026-11-07.report.json",
+      "bytes": 520032,
+      "sha256": "22c72caf0386fe7aa80bb2fdec72a921084e73ef23697cb86727c0a0eec1c454"
+    },
+    {
+      "file": "docs/contact-update-og-2026-11-07.png",
+      "bytes": 46595,
+      "sha256": "4ee008e8a313035106d8606375ea50312a2bb9cc6353461ff0cbfcc66f78fb20"
+    },
+    {
+      "file": "docs/contact-update-preview-2026-11-07.png",
+      "bytes": 115838,
+      "sha256": "22c24efe1014b37765441d08f24b0221e83ba99aeae5dee31a80f2679b4c6675"
+    },
+    {
+      "file": "docs/deployment.md",
+      "bytes": 3919,
+      "sha256": "28892aa78233d14e11ef4accb1d4f0cf48962016c0bb24c7a8041d29f7b93da5"
+    },
+    {
+      "file": "docs/design-references.md",
+      "bytes": 2998,
+      "sha256": "5b10224bb16aaa753e9b0d6063757cfd0cf6ff582eda3a85cc86706eaa29331b"
+    },
+    {
+      "file": "docs/favicon-notes.md",
+      "bytes": 1422,
+      "sha256": "35f09ed00f5faa9e5df990f7430b8eac31c74af634913feb5b7f397732e39314"
+    },
+    {
+      "file": "docs/favicon-verification-2026-11-07.json",
+      "bytes": 869,
+      "sha256": "85c2ba5b368d167cc2ebd1042261f0b6b2dbf286a27b4d4af8bfcbf95b5fccc4"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/RAPOR.md",
+      "bytes": 6289,
+      "sha256": "63449845377304480684f08c0026f028e899ff1ab62bfc1058f4d81fe94984bb"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/admin-blog-mobile.png",
+      "bytes": 72482,
+      "sha256": "0d5e893d5f18a5dd448b99c9505864d4a15ad22e3af9ef98d2b914d09ee76df9"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/build.log",
+      "bytes": 1834,
+      "sha256": "ddb799b364bab02a247504bbe43ade6459a670a41aedcabaaa5b15ff5b830026"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/cleanup.json",
+      "bytes": 393,
+      "sha256": "4f24bbc9467b60ebb0d64a0e880e3e30bca6a83eda846e7693e7c23243dd3ebc"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/connected.json",
+      "bytes": 674,
+      "sha256": "57ed8a0ad2578ce614305fefffc737b56e1b6c5ad99cc83597fd630053ca632c"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/extra-assets.json",
+      "bytes": 556,
+      "sha256": "f4018a9515890ff5dd56adc75c3bef700037a6eda9ba644aa78d3ea2b3b05534"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-about.report.html",
+      "bytes": 697140,
+      "sha256": "46169c8a09e57f56af890b8bf7a4aa51379f734a9aa81183fe7a40ffcbd3c146"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-about.report.json",
+      "bytes": 612979,
+      "sha256": "1c59ba6cd7297808ecef4f296a6c0731d44fd226565b49dcfb4c788658cfe982"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-article.report.html",
+      "bytes": 847485,
+      "sha256": "50c6ae4ea5396e2d11a0150eee2e34c5fc252158d7f81082c7ada20f4f62f4f9"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-article.report.json",
+      "bytes": 766199,
+      "sha256": "cc87852a1f9a4130608111c7ecbb7d3963c299e4d9d8692eac94b5ba4adccd1d"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-blog.report.html",
+      "bytes": 811423,
+      "sha256": "4907a970c8413307bcad0c42f95eed53b95c0c5ac5d25349f586bb99705ff60a"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-blog.report.json",
+      "bytes": 731388,
+      "sha256": "054af3e1fcfe90f731d39dc20daa1cf6476f1bc6de35b3858c46b7ca8e9c59ca"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-contact.report.html",
+      "bytes": 603882,
+      "sha256": "5ec8c2babd22efe19e33a002ff85bfc401e0d739656ee9490d4fa5459b0596a3"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-contact.report.json",
+      "bytes": 518546,
+      "sha256": "26f0d725bb4983bd0bacffaee71ed19cc7873a483b8de10266dfbc073c6988f4"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-home-desktop.report.html",
+      "bytes": 1008504,
+      "sha256": "e88c2378e1011468dbb8019d79421b09612eaaeb4942aee4fdcedb21f6261c69"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-home-desktop.report.json",
+      "bytes": 935240,
+      "sha256": "f3063c0961154319096e2613d6a66116e63e0ebd889aba30c55dd3de9e06e715"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-home.report.html",
+      "bytes": 850304,
+      "sha256": "d87271f130d0a06ea8b8725b4b4f4212614ddab5ff62d34f51128f32f84fe176"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-home.report.json",
+      "bytes": 775212,
+      "sha256": "b0732e55f7cd756b105cced3030c80cea353f53964c08bc1338f9eb88790fb4d"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-preview.png",
+      "bytes": 71609,
+      "sha256": "66fb39aa86116c3e6737281902945a677e781e58c5b5f772e6db6f6a8a0be087"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-services.report.html",
+      "bytes": 750994,
+      "sha256": "2b7fced0c9935dfd129d4ea9f0f5b28549227f0207d51fa467fbe23577cdf6fc"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/final-services.report.json",
+      "bytes": 670320,
+      "sha256": "aefe9cf4d3b305438050a8721736e802a29a800d0d90f86a05aa44b457bce3b6"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-desktop-final.png",
+      "bytes": 166376,
+      "sha256": "d383c8aa9ebdcb8550a044569e222a6b468e9e6e333297af54144240edb8a937"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-diagnostic.report.json",
+      "bytes": 775936,
+      "sha256": "84b02c356a0f136a9b0e652514b0ee20211d9362a1e27402ef530c1776e55cbd"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-mobile-final.png",
+      "bytes": 64538,
+      "sha256": "90a6ab34942c64670fa1b2debc7bba16fd4a613b79f2c3096c70277650e776bf"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-mobile-idle.report.html",
+      "bytes": 850167,
+      "sha256": "d22fd7d053ab3e288db95542441cda2461cdcf97e80b198a4e95accc596c0c49"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-mobile-idle.report.json",
+      "bytes": 773330,
+      "sha256": "258ecb6d1ac12144699b4cfc0ae5d43bb979f453d053bd2cb82e26c8239d29a0"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-mobile.report.html",
+      "bytes": 899727,
+      "sha256": "5eb1e1ec763a86b028fccb69660fb531058b596c931d6542089cc8ab0eb71947"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-mobile.report.json",
+      "bytes": 823589,
+      "sha256": "3728f9ca9777b471887df29b84144e366f7e3335292696e2bb30fab20d926ada"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-repeat-desktop-2.json",
+      "bytes": 1028627,
+      "sha256": "7bc90c1544c4c20d370ffd052b1748726e5bc611e07f137d33a2e904b8703ed9"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-repeat-desktop-3.json",
+      "bytes": 1028458,
+      "sha256": "fef680506659f6da586490cf2e64de9d78b719d97f85b35e86740a258033f8cd"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/home-repeat-mobile.json",
+      "bytes": 778596,
+      "sha256": "8c93298a17d3a6c24a1af6d115c244af3b7d3e7c20962f782703e4e45a2c4c12"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/images.json",
+      "bytes": 1807,
+      "sha256": "310e33cf99aa989bd951b68ad5111f145681e97e38696941b28697fcc32e8e19"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/lighthouse-summary.json",
+      "bytes": 1818,
+      "sha256": "ba8e9c8137370b9d0747abe1899dca924b44992450e8756947f64acd082dd3df"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/npm-audit.json",
+      "bytes": 366,
+      "sha256": "ad8c4e5f966c432cfcbe49d01f080f1aee1fbc359981272a970829023e514ddc"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/regression.json",
+      "bytes": 17125,
+      "sha256": "66cbf42f7871288ba4a0433b983b20ca139361f0f380b395db1a8ec469cc956b"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/release-home-desktop.report.html",
+      "bytes": 1060430,
+      "sha256": "3739823242e08eff9dc24ab6d4026583fa2ed06e19345999177d85e8bcf8193b"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/release-home-desktop.report.json",
+      "bytes": 986340,
+      "sha256": "2be4e0ca3906ca161d023a6d4daa163a79bcc89fb5ef5ea3ef55da1d3e846796"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/release-home-mobile.report.html",
+      "bytes": 847731,
+      "sha256": "d7c928e128d7f47eef5cfa06bee01116bc6586b95d28c6da7fcc19c9ff9aad47"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/release-home-mobile.report.json",
+      "bytes": 771302,
+      "sha256": "f5a159eb8575b04c447c4178066e198fae546866ab9637e4fcb28d011b3bcca4"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/release-scores.json",
+      "bytes": 1759,
+      "sha256": "a0a83e1d4e59cc7eedbc8c7cd7d1bdc480f1f6fa446624c2d33b6aa94addf7b1"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/responsive-final.json",
+      "bytes": 8420,
+      "sha256": "877aa0c512efd9c2867b2554632dc89c5744c12c2cad9db7f69f541db351e099"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/responsive.json",
+      "bytes": 6957,
+      "sha256": "266b855fa17c9f03e4ccc07e72f2c1771706d4985f22e166dd927288a6dcae84"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/routes-final.json",
+      "bytes": 7847,
+      "sha256": "ea4e2426d01003e57c06734c3136018d9bf94a7ce5d463d4485cd7376ceac9c4"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/routes.json",
+      "bytes": 7847,
+      "sha256": "99a81d24ab3a041060ecfd982ca35cfaf7757d565e20c15d4db8207c96d91c85"
+    },
+    {
+      "file": "docs/final-qa-2026-11-09/search-seo-tests.txt",
+      "bytes": 1968,
+      "sha256": "1dd0d883bd6f2db98346243b4757f78bc036993952e72d6c995388ef95d10dee"
+    },
+    {
+      "file": "docs/footer-credit-single-line-2026-11-07.png",
+      "bytes": 79864,
+      "sha256": "96ccbb95a4af54e29392b0e78a2bdc6d94e3f8dd83f97daa8fcdbef26e1ff011"
+    },
+    {
+      "file": "docs/footer-social-icons-2026-11-07.png",
+      "bytes": 44546,
+      "sha256": "a4baa100448c48b522e581f68e96131ff821cc1c896deeb1121d00f3fa1cbdd0"
+    },
+    {
+      "file": "docs/garden-components-mobile-check.report.html",
+      "bytes": 908055,
+      "sha256": "449ca10f0f2ca807c8f8ea58f45fb0d445e0c994dfccd3c4ab5bb3983320ccf5"
+    },
+    {
+      "file": "docs/garden-components-mobile-check.report.json",
+      "bytes": 828320,
+      "sha256": "6c7d195bed9c492c3feae1ff77111b32b435fed2e7f797d95d4718e7fc498d8e"
+    },
+    {
+      "file": "docs/garden-components-mobile.report.html",
+      "bytes": 811401,
+      "sha256": "e7d60ebe8030b0c0902236cb0058b78bd7507a24947cb41b16207ba2604ad9b0"
+    },
+    {
+      "file": "docs/garden-components-mobile.report.json",
+      "bytes": 731731,
+      "sha256": "f429ceb011a4efba937750bc25085e210697a099bd67a43efb8c1862e426f9be"
+    },
+    {
+      "file": "docs/hero-loop-check.json",
+      "bytes": 563,
+      "sha256": "8a03af6a9f85084306fd19369f048002121c64114bdf915762a7940ad3563da0"
+    },
+    {
+      "file": "docs/icon-license.md",
+      "bytes": 835,
+      "sha256": "82705fdf0229632f45cb783401fc01025c2297de6bcbb0dd5005079a8e02f211"
+    },
+    {
+      "file": "docs/image-report.json",
+      "bytes": 1512,
+      "sha256": "1b04770e054423b6a683c32898235dd5edfea35f83cc331caaa3b64b5b4ac779"
+    },
+    {
+      "file": "docs/image-sources.json",
+      "bytes": 2905,
+      "sha256": "23ad5a756c8eefeb87d3bfda1d9e2aff5b6b952cc200ecf3b32901ec3242c960"
+    },
+    {
+      "file": "docs/layout-accessibility.report.json",
+      "bytes": 192419,
+      "sha256": "e6a448617a1482f13a343636c926c9b29d0860ed5ae6ef37da63bf8b5920cc53"
+    },
+    {
+      "file": "docs/lighthouse-desktop.report.html",
+      "bytes": 709907,
+      "sha256": "7e226bfde1fab45c936508a9f2612a9b5a967a73c1e3929bdde54923c23b0aa5"
+    },
+    {
+      "file": "docs/lighthouse-desktop.report.json",
+      "bytes": 626675,
+      "sha256": "6cc29868a8e2f8bfbb0aa8d580ecabdab3bc88926a862477dfaea26b0b1eae69"
+    },
+    {
+      "file": "docs/lighthouse-mobile-run-1.report.html",
+      "bytes": 645824,
+      "sha256": "f1cfdcc40f940fec131c31c0148a6a1d8352b58c522469d70d2b2ad927765203"
+    },
+    {
+      "file": "docs/lighthouse-mobile-run-1.report.json",
+      "bytes": 565255,
+      "sha256": "f26a29c12b52bcc7371d49f11fc02d28fe3ef59d8a43ed3150d9ef02e520fea0"
+    },
+    {
+      "file": "docs/lighthouse-mobile.report.html",
+      "bytes": 686648,
+      "sha256": "9fad3c3f6c705b9041c81defb88dc0352c5594135f84aa19fdeb3c5cec407f0c"
+    },
+    {
+      "file": "docs/lighthouse-mobile.report.json",
+      "bytes": 604649,
+      "sha256": "34dabebf99b2bc703e49dc13c9d0d879427fe668a20fadfb7319c40ad4196d46"
+    },
+    {
+      "file": "docs/live-desktop-preview.png",
+      "bytes": 175569,
+      "sha256": "70bd6855db0268f4b78d43abd98b356559474b8c77cc271d3baf5cf152a4567b"
+    },
+    {
+      "file": "docs/live-desktop-recheck.report.html",
+      "bytes": 1108668,
+      "sha256": "cbb5ea695456768fe32ad5ffe85828ff79b4d650676714e29bd2cf3f2d764428"
+    },
+    {
+      "file": "docs/live-desktop-recheck.report.json",
+      "bytes": 1033538,
+      "sha256": "3f61c7f0d429977e0cafcedb0af5d3b4e52b6947631804fa92a1568502396f64"
+    },
+    {
+      "file": "docs/live-desktop.report.html",
+      "bytes": 1067574,
+      "sha256": "8eac6e0aba66648c887d68d6a3226901ae45c3aa071c37037b9ac5056f275d66"
+    },
+    {
+      "file": "docs/live-desktop.report.json",
+      "bytes": 992818,
+      "sha256": "d32b993f48213f5e76076bf6e8be7c78344776ecf5bc9ee3d2b1fed7abe65b20"
+    },
+    {
+      "file": "docs/live-mobile-preview.png",
+      "bytes": 61271,
+      "sha256": "6b50d8dcf51c72f54ebf6f585f12f36d5e7acbc03e8f967529f7ada977bdfc14"
+    },
+    {
+      "file": "docs/live-mobile-recheck.report.html",
+      "bytes": 859475,
+      "sha256": "44d88ae51423863f107e8e99970cf53a0d6098346722ab223dc4dc4c0310a484"
+    },
+    {
+      "file": "docs/live-mobile-recheck.report.json",
+      "bytes": 781770,
+      "sha256": "5776fb8e4e1db61005a37c15fc2f40e41bd966937464c320f6aaf25f8d2cc875"
+    },
+    {
+      "file": "docs/live-mobile.report.html",
+      "bytes": 813095,
+      "sha256": "09c93ffcc0fbc6df071068d07670e0005cdbf7fbd1f306320f2776edde244fa8"
+    },
+    {
+      "file": "docs/live-mobile.report.json",
+      "bytes": 735126,
+      "sha256": "c1310fb287943b3b12215ffb55483281bd69d849836afa1649d0a3df7a2246e0"
+    },
+    {
+      "file": "docs/live-performance-results.json",
+      "bytes": 2042,
+      "sha256": "7a6d4d0e706270dea1fcbecc0e2063de74bb717bc384dba056ddc6b868fa1e46"
+    },
+    {
+      "file": "docs/live-route-audit.json",
+      "bytes": 2920,
+      "sha256": "d031888e4347ae6e53f5bc6c8f4e54081144d24ec13c290a1f5fe57de2e021c7"
+    },
+    {
+      "file": "docs/logo-notes.md",
+      "bytes": 1656,
+      "sha256": "0eccf7b03ca4ad7c837c57cb41e1abd401dd0427b6a9c59e2a359d9fb898cb6f"
+    },
+    {
+      "file": "docs/playfair-lighthouse-2026-11-07.report.html",
+      "bytes": 858370,
+      "sha256": "608c96311f69abf2d08046d7a81116b202729a799d324150a8ff4902fc978a75"
+    },
+    {
+      "file": "docs/playfair-lighthouse-2026-11-07.report.json",
+      "bytes": 781622,
+      "sha256": "a418216be9762b56230e5fa14bf4e5ecbb9ed6421fbbd47b570a9fcf1ba4d1dc"
+    },
+    {
+      "file": "docs/playfair-lighthouse-recheck-2026-11-07.report.html",
+      "bytes": 855102,
+      "sha256": "732335e6c96fc604d17ea6028d47348bcaaf6a26d73bc4f3a22e0aaee47b7eee"
+    },
+    {
+      "file": "docs/playfair-lighthouse-recheck-2026-11-07.report.json",
+      "bytes": 775233,
+      "sha256": "e8df371acab6635b1adee20ed4e88791bbc23a8f56673cc8e704ac7473019ab0"
+    },
+    {
+      "file": "docs/playfair-live-2026-11-07.png",
+      "bytes": 169243,
+      "sha256": "aace38a2894af0edd5562a52d962e3978d496533fb9131c404ab781fe532d065"
+    },
+    {
+      "file": "docs/polish-2026-11-08.md",
+      "bytes": 2182,
+      "sha256": "52a0c29bc8a1ab813dc8b12d7da8facfc7c76f3c774a2d6691b81eb04f5a8d07"
+    },
+    {
+      "file": "docs/polish-blog-live-2026-11-08.png",
+      "bytes": 238438,
+      "sha256": "11a6226d0b8e1b38cab0ea5d24bb5f460c8f955adb67bf68d0dc25867f40c7fa"
+    },
+    {
+      "file": "docs/polish-live-2026-11-08.png",
+      "bytes": 107541,
+      "sha256": "2b5a289ba2e19dc889b22cdee6f71791564bac884119e869868ba7420054c520"
+    },
+    {
+      "file": "docs/polish-live-2026-11-08.report.html",
+      "bytes": 751398,
+      "sha256": "b807062740787d1675a7ecaf833757cfe9b7df454374f7f2271fc7fbfc1c8868"
+    },
+    {
+      "file": "docs/polish-live-2026-11-08.report.json",
+      "bytes": 671442,
+      "sha256": "d5ab382a9365bde12470f66a0eb6c22891049d2ebf1cd94b3fe42f01a7f33892"
+    },
+    {
+      "file": "docs/polish-local-2026-11-08.report.html",
+      "bytes": 881401,
+      "sha256": "12899b14f95fc55bdad3a51410dceed0e8aa474990b5b45423136cedac6d433d"
+    },
+    {
+      "file": "docs/polish-local-2026-11-08.report.json",
+      "bytes": 802814,
+      "sha256": "8641556be722e9ec7dc4275050bb6daad4d7d05be4ffeb433db3ac8a0ece4318"
+    },
+    {
+      "file": "docs/preview-blog-revision-full.jpg",
+      "bytes": 173656,
+      "sha256": "45e6d064564bea705d7e539fc3bc3cf21b940731b1121b6f92970fcd1c2d5180"
+    },
+    {
+      "file": "docs/preview-blog-revision-hero.jpg",
+      "bytes": 39371,
+      "sha256": "5d6fdc9d54c0dd9b5f4d09f00a381b9458cc75165a194a9146ff5b23498ac876"
+    },
+    {
+      "file": "docs/preview-desktop-full.jpg",
+      "bytes": 71138,
+      "sha256": "9d425bcc5f1e4892d9c6c0e59f088a2d0e16ff286e7d582b9112683a1aca2a96"
+    },
+    {
+      "file": "docs/preview-desktop.jpg",
+      "bytes": 16519,
+      "sha256": "27fd6ac0267361ab6a51e777991897a45887ded51427a9d19a10f345f58ad5bd"
+    },
+    {
+      "file": "docs/preview-faq-inline.jpg",
+      "bytes": 46147,
+      "sha256": "4e74bf95698609727f766295e7a7159aa25b4ff55b639b327fc77d4920545c17"
+    },
+    {
+      "file": "docs/preview-footer-credit-mobile.jpg",
+      "bytes": 27432,
+      "sha256": "2367c0b4c0e4b85e8a31dd4702b2323f9f576dd2c50445043d81b669e24834d1"
+    },
+    {
+      "file": "docs/preview-footer-credit.jpg",
+      "bytes": 65028,
+      "sha256": "0d08a6bde0041feea30acc46396b14fc70f019d562a4d460c3143b32124d2ac7"
+    },
+    {
+      "file": "docs/preview-full-width.jpg",
+      "bytes": 67926,
+      "sha256": "f38eda4cb0c2f591004f35184bdbc07bd936a6cfeea8210711776762d94f5689"
+    },
+    {
+      "file": "docs/preview-garden-network.jpg",
+      "bytes": 68613,
+      "sha256": "7b463b77bd9d31a71ad94edf08d06a9c27b9b230cf4b8196d4b1812369a468c3"
+    },
+    {
+      "file": "docs/preview-garden-process.jpg",
+      "bytes": 99677,
+      "sha256": "9b3087463142b1507d2468a08495ba1fadc96698830d471fbf30efbf2b123499"
+    },
+    {
+      "file": "docs/preview-green-footer-mobile.jpg",
+      "bytes": 22341,
+      "sha256": "fe4ed1e8588f7545b4f745c595fe707e81444ff22058921d0c1f386c288beaae"
+    },
+    {
+      "file": "docs/preview-green-footer.jpg",
+      "bytes": 46766,
+      "sha256": "65d74b7faa2bcd91674dc1b5f8cd8ad898c00d49e75763ac87fe690955cd356e"
+    },
+    {
+      "file": "docs/preview-header-search.jpg",
+      "bytes": 223557,
+      "sha256": "25cf8d753b996185da9b594a2bac131d0ee6c1987e47d836b5fb99ae40716c00"
+    },
+    {
+      "file": "docs/preview-hero-loop.jpg",
+      "bytes": 221258,
+      "sha256": "87a00f128b32bc8c74adecf38bc5c93d7f85438c6f664251106663cc906b6986"
+    },
+    {
+      "file": "docs/preview-mobile-full.jpg",
+      "bytes": 44690,
+      "sha256": "26071c923d7c2b75647f3db0101e70329cd01e0fdfded73a56d5f37d285bde54"
+    },
+    {
+      "file": "docs/preview-mobile.jpg",
+      "bytes": 17240,
+      "sha256": "3feb07516c1719e72fa3344261ddd50214dbb35fc4ee514b133b1057eb79965b"
+    },
+    {
+      "file": "docs/preview-photo-cards.jpg",
+      "bytes": 137063,
+      "sha256": "1ca91831c61172fd40b577a1d364a6882b35b71c853f80e6d8c21057959c9595"
+    },
+    {
+      "file": "docs/preview-process-simple.jpg",
+      "bytes": 145575,
+      "sha256": "8eb98828986f9e92d4de4848b8cb7712732083e48029ea06bea320c32bd6f2c9"
+    },
+    {
+      "file": "docs/preview-redesign-desktop-hero.jpg",
+      "bytes": 40335,
+      "sha256": "f997d900517a4ed1294fea8c9da74bf77cb2e74a28e7610473fc5917fe36fb48"
+    },
+    {
+      "file": "docs/preview-redesign-desktop.jpg",
+      "bytes": 193238,
+      "sha256": "e8efb2881ed157aa628cd80e1137b1f7759e491614e76c2643ba54f4d4115d35"
+    },
+    {
+      "file": "docs/preview-redesign-mobile-hero.jpg",
+      "bytes": 25077,
+      "sha256": "4597b78347636cd597a55df1e2ff303c7ad1f828ae22e600004417c01972524f"
+    },
+    {
+      "file": "docs/preview-redesign-mobile.jpg",
+      "bytes": 108694,
+      "sha256": "e57a795ebcfbd7e4a530de23bc81bf8c8d7cd38120ff65c538c5dad6bc94a24c"
+    },
+    {
+      "file": "docs/preview-restored-cards.jpg",
+      "bytes": 116024,
+      "sha256": "922a0b48e19f85a1685492eb3480425208162598d7589c1a317a28918eaf793c"
+    },
+    {
+      "file": "docs/preview-restored-process.jpg",
+      "bytes": 100025,
+      "sha256": "947d529e8c8bf486965a83c1e184fee603c326c42596261190bd518d7e021bbd"
+    },
+    {
+      "file": "docs/preview-seo-performance.jpg",
+      "bytes": 177711,
+      "sha256": "c0d446537fa9212abaef886afad8fdf152a79ea89ed773df115752e7300e469e"
+    },
+    {
+      "file": "docs/preview-spacing.jpg",
+      "bytes": 158034,
+      "sha256": "1e2ca73f5452313af10436c8c7e3e5981719d12f6a577473ff3570665104eddb"
+    },
+    {
+      "file": "docs/preview-translucent-header.jpg",
+      "bytes": 231411,
+      "sha256": "ea310be2942bef4c8f800335440657521e92001e4df92bf549fec4d1a68335aa"
+    },
+    {
+      "file": "docs/redesign-desktop.report.html",
+      "bytes": 1128449,
+      "sha256": "d43b78c81cafb882c42722517ebd66d7e6dfc028815a81c509a8bd02f3145503"
+    },
+    {
+      "file": "docs/redesign-desktop.report.json",
+      "bytes": 1048990,
+      "sha256": "c5add09d1a1601fe72241f1dc8132950c299ecd65e270714a877911a44f6d716"
+    },
+    {
+      "file": "docs/redesign-mobile.report.html",
+      "bytes": 844991,
+      "sha256": "625bc05aff37100d81a8d7bc54a5cb876c75c3c01a653a7b59536448e58b172f"
+    },
+    {
+      "file": "docs/redesign-mobile.report.json",
+      "bytes": 763434,
+      "sha256": "faaa7c0eaf1cd51b4122a768e2bd1c3a241d7a0ca923e6d566e1e4be2d636670"
+    },
+    {
+      "file": "docs/seo-domain-check.json",
+      "bytes": 2397,
+      "sha256": "08f9d5f118e959c609e59717bc966f1fb2cf241eabdf0319067cc8cc7a90935b"
+    },
+    {
+      "file": "docs/seo-performance-report.md",
+      "bytes": 5522,
+      "sha256": "b7c5574b98d54874dad766cecec3ab16f6c8137450b572b5898dea3a52d3278a"
+    },
+    {
+      "file": "docs/seo-performance-results.json",
+      "bytes": 6538,
+      "sha256": "974d882dcd8ef01345b829a4522a27815542fefb71c37cddc2f04ccaeca6e074"
+    },
+    {
+      "file": "docs/seo-route-audit.json",
+      "bytes": 8607,
+      "sha256": "81b1b324ed28fd50c073a0072d48afd5110f4091b4f36e039a0db3bebf523104"
+    },
+    {
+      "file": "docs/typography.md",
+      "bytes": 2005,
+      "sha256": "25b16d2f88bd202c6f2972c2fca4ee44de58f4aad9fd7df46b15a6a613e66562"
+    },
+    {
+      "file": "docs/validation.md",
+      "bytes": 8460,
+      "sha256": "521ca5afcc7c491dadcea42824a49071903c06fba492f690ea20623695835703"
+    },
+    {
+      "file": "docs/video-source.json",
+      "bytes": 1450,
+      "sha256": "63419e26b3d0e5a28145897382f6161c2dac33f351d9223385e2bfe99389a8a8"
+    },
+    {
+      "file": "assets/source/autumn.jpg",
+      "bytes": 499500,
+      "sha256": "980acc2d0a88db094bd728bd2c7dfa336d37addd631828dc2e3134163aec2fa1"
+    },
+    {
+      "file": "assets/source/candidate-a.jpg",
+      "bytes": 3526940,
+      "sha256": "f5f4eed21c5767628518f75504af685fba277c9fc50a98b7968dbfa8d68493e3"
+    },
+    {
+      "file": "assets/source/candidate-b.jpg",
+      "bytes": 1131454,
+      "sha256": "f1c2a4301a143c463d2373cc035b68a35cda88be1fcbbf6435dfdf82aa1e9b88"
+    },
+    {
+      "file": "assets/source/candidate-c.jpg",
+      "bytes": 1093653,
+      "sha256": "897e2393b148dab02f5ff18e3cdda72ae68eb1f80246e1d66af0edc77dc8ea1e"
+    },
+    {
+      "file": "assets/source/candidates.json",
+      "bytes": 957,
+      "sha256": "125290edc4f7dfa4030374f1bc819ce239468307b93acdcb5a414ce6c21fdbf7"
+    },
+    {
+      "file": "assets/source/favicon-32-preview.png",
+      "bytes": 1880,
+      "sha256": "0d84a2acecdc483df23a8894cd6ec21e089ff9eda3c59072292cf1c144e1baac"
+    },
+    {
+      "file": "assets/source/favicon-source.png",
+      "bytes": 1148879,
+      "sha256": "59be0c2ab56395681c22449821c0962fd94e6fb1319613854a28b7f65cda5d98"
+    },
+    {
+      "file": "assets/source/garden-poster-mobile.png",
+      "bytes": 1212628,
+      "sha256": "b44e6c318fe3868f1ce5e7a21b1bdb1902099c2c2c7c2c77fa998eec832b02ed"
+    },
+    {
+      "file": "assets/source/garden-poster.png",
+      "bytes": 4341107,
+      "sha256": "63c709bb539a23734acfb7f1a82d41f79baa30ba74a9249c99c953dc47f140b2"
+    },
+    {
+      "file": "assets/source/garden-video-source.mp4",
+      "bytes": 7927729,
+      "sha256": "04d8ccaba627ca52f15c4473a86a1430012c733b0220be455197a4374bb48316"
+    },
+    {
+      "file": "assets/source/garden.jpg",
+      "bytes": 1013645,
+      "sha256": "e89d6c9fffd5e761f3a0537ab642074ac0cd236eaed5db82729b706c1f4f2a7a"
+    },
+    {
+      "file": "assets/source/hero.jpg",
+      "bytes": 1093653,
+      "sha256": "897e2393b148dab02f5ff18e3cdda72ae68eb1f80246e1d66af0edc77dc8ea1e"
+    },
+    {
+      "file": "assets/source/lawn.jpg",
+      "bytes": 1031676,
+      "sha256": "2629338ee395f042c45568aa6651f594ae2ef260bd0450eaf61df8aa88055cb6"
+    },
+    {
+      "file": "assets/source/leaves-video-source.mp4",
+      "bytes": 7558869,
+      "sha256": "0f734936c43b977c9e8160afcb7dca060e4fbe4caf0f9bcadd4c2874193b8ded"
+    },
+    {
+      "file": "assets/source/logo.png",
+      "bytes": 743031,
+      "sha256": "db73d4c7faad18ce37a1bd31481d98a1f767afd63357a6e62af68701a86f5329"
+    },
+    {
+      "file": "assets/source/mowing.jpg",
+      "bytes": 524200,
+      "sha256": "9d5c33502f95e9a4f8990fa77dd6472cab86476f81b9d0fc1eacfb3f04f82107"
+    },
+    {
+      "file": "assets/source/new-sources.json",
+      "bytes": 1347,
+      "sha256": "3c376283088a933280f1d442b574a128d68d40d4996464e10b49f0577bd43fd4"
+    },
+    {
+      "file": "assets/source/playfair-display-variable.ttf",
+      "bytes": 300724,
+      "sha256": "c40f2293766a503bc70cce9e512ef844a4ccb7cbcde792fe2ea31d191917d8d6"
+    },
+    {
+      "file": "assets/source/pruning-action.jpg",
+      "bytes": 284561,
+      "sha256": "a38fab0a511feb9fec51a5221169a4a6ec897113498d2db3f7f2bc52bcd6a94f"
+    },
+    {
+      "file": "assets/source/pruning-candidate.jpg",
+      "bytes": 284561,
+      "sha256": "a38fab0a511feb9fec51a5221169a4a6ec897113498d2db3f7f2bc52bcd6a94f"
+    },
+    {
+      "file": "assets/source/pruning.jpg",
+      "bytes": 623273,
+      "sha256": "0b8a1570032fd312187ca730d5677adca9c4df8bfdacea890f9b1c2f6a81c1b6"
+    },
+    {
+      "file": "assets/source/revision/garden-path-frame.jpg",
+      "bytes": 256993,
+      "sha256": "e377ce85a181ac45476446b923e2ef5de0435cb7155918c3790046ee3f6a2c84"
+    },
+    {
+      "file": "assets/source/revision/garden-path-source.mp4",
+      "bytes": 15402110,
+      "sha256": "e97cc8e5fdac60685b72b7db89138da8a5347212560db4dc35c298ace5c5f29d"
+    },
+    {
+      "file": "assets/source/soil.jpg",
+      "bytes": 353049,
+      "sha256": "49ae745c61a2d2bedd37a33405bc65189f42cd4c75bf37cb64790941c5a5b0b7"
+    },
+    {
+      "file": "assets/source/sources.json",
+      "bytes": 2905,
+      "sha256": "23ad5a756c8eefeb87d3bfda1d9e2aff5b6b952cc200ecf3b32901ec3242c960"
+    },
+    {
+      "file": "assets/source/trees.jpg",
+      "bytes": 1700077,
+      "sha256": "cbb2420d4914b391cbfbaa21103d37efb9bfbf74436725d4f545c6b5b7d9a051"
+    },
+    {
+      "file": "assets/source/video-poster.png",
+      "bytes": 1331755,
+      "sha256": "6d1ff9aaeda3594ad9876a6ba792c21f69b3f862934f06d9e297db1b7757eae6"
+    },
+    {
+      "file": "assets/source/watering.jpg",
+      "bytes": 332002,
+      "sha256": "e24d1324dbc6e6bdd14d480b509dbb6d1559ad12513fa258f64a5b03cbb0e134"
+    },
+    {
+      "file": "assets/source/whatsapp-brand.svg",
+      "bytes": 1177,
+      "sha256": "5b2054497bf8bdc009569dcb19ec6c41a133e9d7e813aa9d18507edb33fedbe9"
+    }
+  ]
+}

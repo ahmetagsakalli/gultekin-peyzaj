@@ -1,0 +1,25 @@
+(node:82428) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///Users/ahmetagsakalli/Documents/Codex/2026-11-05/https-dribbble-com-shots-27864885-orvyn/outputs/gultekin-peyzaj/src/lib/search.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /Users/ahmetagsakalli/Documents/Codex/2026-11-05/https-dribbble-com-shots-27864885-orvyn/outputs/gultekin-peyzaj/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ Türkçe büyük/küçük harfler ve ASCII yazım eşleşir (0.579334ms)
+✔ Başlık eşleşmesi içerik eşleşmesinden önce gelir (0.333166ms)
+✔ Birden fazla sözcüğün tamamı aranır (0.126916ms)
+✔ Boş, kısa veya bulunamayan aramada sonuç üretilmez (0.133ms)
+✔ Telefon ve bölge araması iletişime ulaştırır (0.078041ms)
+(node:82429) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///Users/ahmetagsakalli/Documents/Codex/2026-11-05/https-dribbble-com-shots-27864885-orvyn/outputs/gultekin-peyzaj/src/lib/site-url.ts is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /Users/ahmetagsakalli/Documents/Codex/2026-11-05/https-dribbble-com-shots-27864885-orvyn/outputs/gultekin-peyzaj/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+✔ no public domain is invented when SITE_URL is empty (0.638584ms)
+✔ the configured origin is normalized without a trailing slash (0.082834ms)
+✔ invalid public origins fail instead of producing incorrect canonicals (0.185125ms)
+✔ public URLs activate only for a configured domain (110.266ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 193.209625

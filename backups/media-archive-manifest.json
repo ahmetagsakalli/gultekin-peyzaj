@@ -1,0 +1,178 @@
+{
+  "files": [
+    {
+      "file": "assets/source/candidates.json",
+      "bytes": 957,
+      "originalBytes": 957,
+      "sha256": "125290edc4f7dfa4030374f1bc819ce239468307b93acdcb5a414ce6c21fdbf7"
+    },
+    {
+      "file": "assets/source/pruning-action.jpg",
+      "bytes": 284561,
+      "originalBytes": 284561,
+      "sha256": "a38fab0a511feb9fec51a5221169a4a6ec897113498d2db3f7f2bc52bcd6a94f"
+    },
+    {
+      "file": "assets/source/favicon-source.png",
+      "bytes": 1148879,
+      "originalBytes": 1148879,
+      "sha256": "59be0c2ab56395681c22449821c0962fd94e6fb1319613854a28b7f65cda5d98"
+    },
+    {
+      "file": "assets/source/sources.json",
+      "bytes": 2905,
+      "originalBytes": 2905,
+      "sha256": "23ad5a756c8eefeb87d3bfda1d9e2aff5b6b952cc200ecf3b32901ec3242c960"
+    },
+    {
+      "file": "assets/source/video-poster.png",
+      "bytes": 1331755,
+      "originalBytes": 1331755,
+      "sha256": "6d1ff9aaeda3594ad9876a6ba792c21f69b3f862934f06d9e297db1b7757eae6"
+    },
+    {
+      "file": "assets/source/hero.jpg",
+      "bytes": 1093653,
+      "originalBytes": 1093653,
+      "sha256": "897e2393b148dab02f5ff18e3cdda72ae68eb1f80246e1d66af0edc77dc8ea1e"
+    },
+    {
+      "file": "assets/source/garden-poster.png",
+      "bytes": 4341107,
+      "originalBytes": 4341107,
+      "sha256": "63c709bb539a23734acfb7f1a82d41f79baa30ba74a9249c99c953dc47f140b2"
+    },
+    {
+      "file": "assets/source/garden-poster-mobile.png",
+      "bytes": 1212628,
+      "originalBytes": 1212628,
+      "sha256": "b44e6c318fe3868f1ce5e7a21b1bdb1902099c2c2c7c2c77fa998eec832b02ed"
+    },
+    {
+      "file": "assets/source/candidate-a.jpg",
+      "bytes": 3526940,
+      "originalBytes": 3527095,
+      "sha256": "f5f4eed21c5767628518f75504af685fba277c9fc50a98b7968dbfa8d68493e3"
+    },
+    {
+      "file": "assets/source/garden.jpg",
+      "bytes": 1013645,
+      "originalBytes": 1013645,
+      "sha256": "e89d6c9fffd5e761f3a0537ab642074ac0cd236eaed5db82729b706c1f4f2a7a"
+    },
+    {
+      "file": "assets/source/whatsapp-brand.svg",
+      "bytes": 1177,
+      "originalBytes": 1177,
+      "sha256": "5b2054497bf8bdc009569dcb19ec6c41a133e9d7e813aa9d18507edb33fedbe9"
+    },
+    {
+      "file": "assets/source/candidate-b.jpg",
+      "bytes": 1131454,
+      "originalBytes": 1131427,
+      "sha256": "f1c2a4301a143c463d2373cc035b68a35cda88be1fcbbf6435dfdf82aa1e9b88"
+    },
+    {
+      "file": "assets/source/candidate-c.jpg",
+      "bytes": 1093653,
+      "originalBytes": 1093653,
+      "sha256": "897e2393b148dab02f5ff18e3cdda72ae68eb1f80246e1d66af0edc77dc8ea1e"
+    },
+    {
+      "file": "assets/source/soil.jpg",
+      "bytes": 353049,
+      "originalBytes": 353049,
+      "sha256": "49ae745c61a2d2bedd37a33405bc65189f42cd4c75bf37cb64790941c5a5b0b7"
+    },
+    {
+      "file": "assets/source/logo.png",
+      "bytes": 743031,
+      "originalBytes": 743031,
+      "sha256": "db73d4c7faad18ce37a1bd31481d98a1f767afd63357a6e62af68701a86f5329"
+    },
+    {
+      "file": "assets/source/watering.jpg",
+      "bytes": 332002,
+      "originalBytes": 332002,
+      "sha256": "e24d1324dbc6e6bdd14d480b509dbb6d1559ad12513fa258f64a5b03cbb0e134"
+    },
+    {
+      "file": "assets/source/pruning.jpg",
+      "bytes": 623273,
+      "originalBytes": 623273,
+      "sha256": "0b8a1570032fd312187ca730d5677adca9c4df8bfdacea890f9b1c2f6a81c1b6"
+    },
+    {
+      "file": "assets/source/favicon-32-preview.png",
+      "bytes": 1880,
+      "originalBytes": 1880,
+      "sha256": "0d84a2acecdc483df23a8894cd6ec21e089ff9eda3c59072292cf1c144e1baac"
+    },
+    {
+      "file": "assets/source/garden-video-source.mp4",
+      "bytes": 7927729,
+      "originalBytes": 7927729,
+      "sha256": "04d8ccaba627ca52f15c4473a86a1430012c733b0220be455197a4374bb48316"
+    },
+    {
+      "file": "assets/source/playfair-display-variable.ttf",
+      "bytes": 300724,
+      "originalBytes": 300724,
+      "sha256": "c40f2293766a503bc70cce9e512ef844a4ccb7cbcde792fe2ea31d191917d8d6"
+    },
+    {
+      "file": "assets/source/autumn.jpg",
+      "bytes": 499500,
+      "originalBytes": 499500,
+      "sha256": "980acc2d0a88db094bd728bd2c7dfa336d37addd631828dc2e3134163aec2fa1"
+    },
+    {
+      "file": "assets/source/new-sources.json",
+      "bytes": 1347,
+      "originalBytes": 1347,
+      "sha256": "3c376283088a933280f1d442b574a128d68d40d4996464e10b49f0577bd43fd4"
+    },
+    {
+      "file": "assets/source/lawn.jpg",
+      "bytes": 1031676,
+      "originalBytes": 1031676,
+      "sha256": "2629338ee395f042c45568aa6651f594ae2ef260bd0450eaf61df8aa88055cb6"
+    },
+    {
+      "file": "assets/source/trees.jpg",
+      "bytes": 1700077,
+      "originalBytes": 1700077,
+      "sha256": "cbb2420d4914b391cbfbaa21103d37efb9bfbf74436725d4f545c6b5b7d9a051"
+    },
+    {
+      "file": "assets/source/leaves-video-source.mp4",
+      "bytes": 7558869,
+      "originalBytes": 7558869,
+      "sha256": "0f734936c43b977c9e8160afcb7dca060e4fbe4caf0f9bcadd4c2874193b8ded"
+    },
+    {
+      "file": "assets/source/pruning-candidate.jpg",
+      "bytes": 284561,
+      "originalBytes": 284561,
+      "sha256": "a38fab0a511feb9fec51a5221169a4a6ec897113498d2db3f7f2bc52bcd6a94f"
+    },
+    {
+      "file": "assets/source/mowing.jpg",
+      "bytes": 524200,
+      "originalBytes": 524200,
+      "sha256": "9d5c33502f95e9a4f8990fa77dd6472cab86476f81b9d0fc1eacfb3f04f82107"
+    },
+    {
+      "file": "assets/source/revision/garden-path-frame.jpg",
+      "bytes": 256993,
+      "originalBytes": 256993,
+      "sha256": "e377ce85a181ac45476446b923e2ef5de0435cb7155918c3790046ee3f6a2c84"
+    },
+    {
+      "file": "assets/source/revision/garden-path-source.mp4",
+      "bytes": 15402110,
+      "originalBytes": 15402110,
+      "sha256": "e97cc8e5fdac60685b72b7db89138da8a5347212560db4dc35c298ace5c5f29d"
+    }
+  ]
+}

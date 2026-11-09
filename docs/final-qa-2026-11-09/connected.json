@@ -1,0 +1,12 @@
+{
+  "environment": "Isolated QA database + real Blob + local production server",
+  "checks": [
+    "Server authentication, origin protection and secure session cookie",
+    "Draft persistence/isolation, stale-write conflict, immediate publication",
+    "History restores into a private draft, then publishes",
+    "Real Blob upload, responsive WebP, page isolation, removal/reset and gallery order",
+    "Blog draft, new live route without deployment, sitemap, edit and removal",
+    "Password changes revoke existing QA sessions; random QA password restored. Production credentials were not changed.",
+    "Original content restored and logout revokes server session"
+  ]
+}

@@ -2,7 +2,7 @@ import sharp from "sharp";
 import { writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 
-const source = fileURLToPath(new URL("../../../work/assets/favicon-source.png", import.meta.url));
+const source = fileURLToPath(new URL("../assets/source/favicon-source.png", import.meta.url));
 const app = new URL("../src/app/", import.meta.url);
 const sizes = [16, 32, 48];
 const images = await Promise.all(

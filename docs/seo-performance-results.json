@@ -1,0 +1,268 @@
+[
+  {
+    "label": "mobile-1",
+    "path": "/",
+    "device": "mobile",
+    "time": "2026-11-05T19:34:24.140Z",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 997.9207,
+      "first-contentful-paint": 997.9207,
+      "total-blocking-time": 52.00000000000034,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "desktop",
+    "path": "/",
+    "device": "desktop",
+    "time": "2026-11-05T19:34:36.512Z",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 891.4961,
+      "first-contentful-paint": 251.4961,
+      "total-blocking-time": 0,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "services",
+    "path": "/hizmetler",
+    "device": "mobile",
+    "time": "2026-11-05T19:34:49.353Z",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2430.0208749999997,
+      "first-contentful-paint": 758.0166999999999,
+      "total-blocking-time": 20,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "about",
+    "path": "/hakkimizda",
+    "device": "mobile",
+    "time": "2026-11-05T19:35:00.868Z",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2042.0686500000002,
+      "first-contentful-paint": 761.3791000000001,
+      "total-blocking-time": 19,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "contact",
+    "path": "/iletisim",
+    "device": "mobile",
+    "time": "2026-11-05T19:35:12.494Z",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 774.7321999999999,
+      "first-contentful-paint": 774.7321999999999,
+      "total-blocking-time": 32,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "blog",
+    "path": "/blog",
+    "device": "mobile",
+    "time": "2026-11-05T19:35:24.462Z",
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2709.7421249999998,
+      "first-contentful-paint": 757.7937,
+      "total-blocking-time": 16.5,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "article-1",
+    "path": "/blog/bahce-duzenlemesine-nereden-baslamali",
+    "device": "mobile",
+    "time": "2026-11-05T19:35:36.373Z",
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2734.1504000000004,
+      "first-contentful-paint": 763.2288000000001,
+      "total-blocking-time": 55.5,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "article-2",
+    "path": "/blog/cim-bicerken-nelere-dikkat-edilmeli",
+    "device": "mobile",
+    "time": "2026-11-05T19:35:48.353Z",
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2516.2676250000004,
+      "first-contentful-paint": 757.8141,
+      "total-blocking-time": 16.5,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "article-3",
+    "path": "/blog/bahce-sulamasinda-dogru-aliskanliklar",
+    "device": "mobile",
+    "time": "2026-11-05T19:36:00.306Z",
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2663.3134999999997,
+      "first-contentful-paint": 759.3219999999999,
+      "total-blocking-time": 23.5,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "article-4",
+    "path": "/blog/budama-zamani-her-bitkide-ayni-degil",
+    "device": "mobile",
+    "time": "2026-11-05T19:36:12.510Z",
+    "scores": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2740.58775,
+      "first-contentful-paint": 765.0585000000001,
+      "total-blocking-time": 21.5,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "article-5",
+    "path": "/blog/sonbaharda-cim-bakimi",
+    "device": "mobile",
+    "time": "2026-11-05T19:36:24.494Z",
+    "scores": {
+      "performance": 97,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2675.599,
+      "first-contentful-paint": 764.4792,
+      "total-blocking-time": 34.5,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "article-6",
+    "path": "/blog/bitki-secmeden-once-topragi-taniyin",
+    "device": "mobile",
+    "time": "2026-11-05T19:36:37.113Z",
+    "scores": {
+      "performance": 98,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 2441.85275,
+      "first-contentful-paint": 758.2822000000001,
+      "total-blocking-time": 18,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "mobile-2",
+    "path": "/",
+    "device": "mobile",
+    "time": "2026-11-05T19:36:48.725Z",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 908.6835000000001,
+      "first-contentful-paint": 908.6835000000001,
+      "total-blocking-time": 25,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  },
+  {
+    "label": "mobile-3",
+    "path": "/",
+    "device": "mobile",
+    "time": "2026-11-05T19:37:00.273Z",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": 911.2355,
+      "first-contentful-paint": 911.2355,
+      "total-blocking-time": 15.499999999999773,
+      "cumulative-layout-shift": 0
+    },
+    "warnings": []
+  }
+]
