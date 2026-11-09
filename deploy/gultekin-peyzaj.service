@@ -1,0 +1,23 @@
+[Unit]
+Description=Gultekin Peyzaj Next.js
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=gultekin
+Group=gultekin
+WorkingDirectory=/srv/gultekin-peyzaj
+Environment=NODE_ENV=production
+Environment=PORT=3000
+ExecStart=/usr/bin/node /srv/gultekin-peyzaj/node_modules/next/dist/bin/next start --hostname 127.0.0.1 --port 3000
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+KillSignal=SIGTERM
+NoNewPrivileges=true
+PrivateTmp=true
+UMask=0077
+
+[Install]
+WantedBy=multi-user.target

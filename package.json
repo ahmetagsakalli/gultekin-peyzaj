@@ -1,0 +1,46 @@
+{
+  "name": "gultekin-peyzaj",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test:search": "node --experimental-strip-types --test scripts/search.test.mjs",
+    "test:seo": "node --experimental-strip-types --test scripts/seo.test.mjs",
+    "optimize:images": "node scripts/optimize-images.mjs",
+    "test:admin": "vitest run",
+    "db:migrate": "node scripts/admin/migrate.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.3.0",
+    "@neondatabase/serverless": "^1.2.0",
+    "@vercel/blob": "^2.8.1",
+    "bcryptjs": "^3.0.3",
+    "lucide-react": "^1.53.0",
+    "next": "^16.4.5",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "server-only": "^0.0.1",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.6"
+  },
+  "devDependencies": {
+    "@next/env": "16.4.5",
+    "@tailwindcss/postcss": "^4.3.4",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.7",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "jsdom": "^30.1.2",
+    "tailwindcss": "^4.3.4",
+    "ts-ast": "npm:typescript@^6.0.3",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  },
+  "overrides": {
+    "zod": "$zod"
+  }
+}

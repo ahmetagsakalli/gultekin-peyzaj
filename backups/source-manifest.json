@@ -1,0 +1,520 @@
+{
+  "deployment": "dpl_HVvUvdYxLttj5WPoqzkFKYRSzo8P",
+  "files": [
+    {
+      "path": ".vercelignore",
+      "sha1": "c8b08ccc49c3db30ef2a5f794961247bfd5fc9bc",
+      "bytes": 202
+    },
+    {
+      "path": "next-env.d.ts",
+      "sha1": "915946e261450f4fb6aab2ca862c8b440b748240",
+      "bytes": 288
+    },
+    {
+      "path": "next.config.ts",
+      "sha1": "c5d79de54e263e9ce13affbdb30265c73ba55fa9",
+      "bytes": 1356
+    },
+    {
+      "path": "package-lock.json",
+      "sha1": "14a0d10fd34b605a54ffbb397dbe22b267dc5370",
+      "bytes": 135459
+    },
+    {
+      "path": "package.json",
+      "sha1": "6e5109e10620eb7215f1f0a82b4e8058cdfd9963",
+      "bytes": 1481
+    },
+    {
+      "path": "postcss.config.mjs",
+      "sha1": "abdc868df95c5e759afe30b8434959c1916dba95",
+      "bytes": 60
+    },
+    {
+      "path": "public/images/autumn.webp",
+      "sha1": "335d513ddc58172a2c4d655b04a9a2dba87fcb9d",
+      "bytes": 221366
+    },
+    {
+      "path": "public/images/garden-poster-mobile.webp",
+      "sha1": "b0c5f7a8f5f9e005ce6331643efba6193ba70f6e",
+      "bytes": 157496
+    },
+    {
+      "path": "public/images/garden-poster.webp",
+      "sha1": "57ff1736de42d07a1ec16a6e35c350d198f570b1",
+      "bytes": 527440
+    },
+    {
+      "path": "public/images/garden.webp",
+      "sha1": "92ff5be3361e4c0df5ee01c5f06a3addfd6f693c",
+      "bytes": 215844
+    },
+    {
+      "path": "public/images/hero.webp",
+      "sha1": "81ac1f16ed03e1a4d18835fe2a6b308e08df594e",
+      "bytes": 478654
+    },
+    {
+      "path": "public/images/lawn.webp",
+      "sha1": "c59ae42e88e8bb3b06d2a289a0794c017b465424",
+      "bytes": 214954
+    },
+    {
+      "path": "public/images/logo.webp",
+      "sha1": "215767f86508c5b23020419a7261c1df4ee41cf8",
+      "bytes": 285506
+    },
+    {
+      "path": "public/images/mowing.webp",
+      "sha1": "e4ed8cf8050aa89f403836ff7247cf9210ea5b17",
+      "bytes": 229936
+    },
+    {
+      "path": "public/images/pruning-action.webp",
+      "sha1": "d97b516d490e157ef4957d55da944da2ad45db20",
+      "bytes": 74112
+    },
+    {
+      "path": "public/images/pruning.webp",
+      "sha1": "d8a1fd40e946f80c601af0c5a16bb974b85286a8",
+      "bytes": 112140
+    },
+    {
+      "path": "public/images/soil.webp",
+      "sha1": "2ec15b90a1af8c29b845902b67122f15c10646e7",
+      "bytes": 118058
+    },
+    {
+      "path": "public/images/trees.webp",
+      "sha1": "e8e2fca9099d0d85ab6bf7e3386d51573df68ef5",
+      "bytes": 426532
+    },
+    {
+      "path": "public/images/watering.webp",
+      "sha1": "9d0fe4b1886887b35d07285e3c45b9d277747147",
+      "bytes": 95056
+    },
+    {
+      "path": "public/videos/garden-path-loop.mp4",
+      "sha1": "3e6525e574235e405f5ed0ab7e0f1d9ffe6907f5",
+      "bytes": 6589561
+    },
+    {
+      "path": "public/videos/garden-portrait-loop.mp4",
+      "sha1": "5fe0d5923ee070e68f6a02a899da894649e65be3",
+      "bytes": 3012324
+    },
+    {
+      "path": "src/app/(site)/blog/[slug]/page.tsx",
+      "sha1": "b1fee5368d95115f52fdbcabe22ac2243a157fba",
+      "bytes": 4900
+    },
+    {
+      "path": "src/app/(site)/blog/page.tsx",
+      "sha1": "51c28ad103ebc7389c929b7dcf6ff550861b7009",
+      "bytes": 775
+    },
+    {
+      "path": "src/app/(site)/globals.css",
+      "sha1": "3d0ab232e0b6fdf5005a275b3fb7860d58fd992b",
+      "bytes": 47713
+    },
+    {
+      "path": "src/app/(site)/hakkimizda/page.tsx",
+      "sha1": "26c244751d4e17b8faa552aa9f7753c99e12ba46",
+      "bytes": 1828
+    },
+    {
+      "path": "src/app/(site)/hizmetler/page.tsx",
+      "sha1": "b03aa53ead55037a3fa8ced4f4eea270bbc7da03",
+      "bytes": 2375
+    },
+    {
+      "path": "src/app/(site)/iletisim/page.tsx",
+      "sha1": "14603eeacf0bab67d3e66dbb2877dff049149aab",
+      "bytes": 2486
+    },
+    {
+      "path": "src/app/(site)/layout.tsx",
+      "sha1": "e79fa70cc92b226cbb38e254ff741ba8ff263384",
+      "bytes": 1236
+    },
+    {
+      "path": "src/app/(site)/not-found.tsx",
+      "sha1": "0a1213e8a577315a8442d3e328f24cf482b52bec",
+      "bytes": 371
+    },
+    {
+      "path": "src/app/(site)/page.tsx",
+      "sha1": "7107c2c24749f56b069e36422946daee5b06ce6c",
+      "bytes": 3593
+    },
+    {
+      "path": "src/app/admin/admin.css",
+      "sha1": "4d2679bde99d5b82eee8850a145b2a621145feb5",
+      "bytes": 39497
+    },
+    {
+      "path": "src/app/admin/layout.tsx",
+      "sha1": "a4504b10a206d7d2f90f50396a7f40dc2cefc6fa",
+      "bytes": 388
+    },
+    {
+      "path": "src/app/admin/page.tsx",
+      "sha1": "76eccbdae28f3821f5c55e3b32a93a89b2eb7d4f",
+      "bytes": 721
+    },
+    {
+      "path": "src/app/api/admin/blog/route.ts",
+      "sha1": "dba83e332a50ae116e8048da04a80717b5750e6d",
+      "bytes": 3710
+    },
+    {
+      "path": "src/app/api/admin/content/route.ts",
+      "sha1": "1074325412ac88503819ead65e83b5fe8db52f32",
+      "bytes": 2633
+    },
+    {
+      "path": "src/app/api/admin/login/route.ts",
+      "sha1": "5db51eb396779d21d5c5a8260f675a73ba0aba27",
+      "bytes": 876
+    },
+    {
+      "path": "src/app/api/admin/logout/route.ts",
+      "sha1": "85bfb07c48c170ff25beac8147ec73fa505fc31a",
+      "bytes": 491
+    },
+    {
+      "path": "src/app/api/admin/media/route.ts",
+      "sha1": "77f857543400dea05be1c56b464ed130534e05aa",
+      "bytes": 3076
+    },
+    {
+      "path": "src/app/api/admin/password/route.ts",
+      "sha1": "f22bbd8c80251cf56c05e415da22758dab2b6f70",
+      "bytes": 912
+    },
+    {
+      "path": "src/app/api/admin/publishing/route.ts",
+      "sha1": "baf902e57e113eb0e9856248ef1c7668a363b90d",
+      "bytes": 1556
+    },
+    {
+      "path": "src/app/apple-icon.png",
+      "sha1": "de9b0054fa9cc7a12a6e8f41a4c2737830d4e96e",
+      "bytes": 16048
+    },
+    {
+      "path": "src/app/base.css",
+      "sha1": "12d503e75e66ca7076c1f5e9a4f84d459bc7b7ac",
+      "bytes": 39
+    },
+    {
+      "path": "src/app/favicon.ico",
+      "sha1": "ec6544b2d3ab2b423aee886e7fd85dd25506bae6",
+      "bytes": 5920
+    },
+    {
+      "path": "src/app/icon.png",
+      "sha1": "565224c1d0961dead421627937a7f10cb3d76f53",
+      "bytes": 17845
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "sha1": "a76ac96b918beef24cc830dd882a5f510e94673e",
+      "bytes": 1081
+    },
+    {
+      "path": "src/app/opengraph-image.tsx",
+      "sha1": "3982108d11553a4f0c09cc4b59df07438d4b44a6",
+      "bytes": 1829
+    },
+    {
+      "path": "src/app/robots.ts",
+      "sha1": "df437bc4e6927357216a9680ba16667322defc7e",
+      "bytes": 277
+    },
+    {
+      "path": "src/app/sitemap.ts",
+      "sha1": "d636888df7e3dcb570ea8d77b9e4fa71a4b9ade7",
+      "bytes": 576
+    },
+    {
+      "path": "src/components/admin/blog-editor.tsx",
+      "sha1": "8a00bfdfaefd39755e8b0dfbb3e79da8b5ba04ec",
+      "bytes": 6376
+    },
+    {
+      "path": "src/components/admin/login.tsx",
+      "sha1": "435166e64bf89484c9345d3c3144c88d10926725",
+      "bytes": 3262
+    },
+    {
+      "path": "src/components/admin/page-editor.tsx",
+      "sha1": "359551d0cfb10043ad44bd9c141130a8598a9e3b",
+      "bytes": 10189
+    },
+    {
+      "path": "src/components/admin/page-media-editor.tsx",
+      "sha1": "0e114edc6379e882db53fea7d2b7d67be4a430b4",
+      "bytes": 10370
+    },
+    {
+      "path": "src/components/admin/panel.tsx",
+      "sha1": "5ba88233bfd301fd6bf0902f72c375a5397fa7ef",
+      "bytes": 5742
+    },
+    {
+      "path": "src/components/admin/password-settings.tsx",
+      "sha1": "151dd1b53cf3739649d25f429aa5da3a6194b044",
+      "bytes": 3292
+    },
+    {
+      "path": "src/components/admin/publishing-bar.tsx",
+      "sha1": "69ccf4ccc0e30e5a9049b6f643e4edb7ceb261c7",
+      "bytes": 7097
+    },
+    {
+      "path": "src/components/admin/site-status.tsx",
+      "sha1": "df757a370d4ebdd13b359dd9729198c6fe96365d",
+      "bytes": 2399
+    },
+    {
+      "path": "src/components/blog-grid.tsx",
+      "sha1": "790479c9e8c89bdd53f8dd5b8648a80557d53911",
+      "bytes": 1283
+    },
+    {
+      "path": "src/components/cms-gallery.tsx",
+      "sha1": "93840f67f4d56a708fa5f9818999b5d3334637a8",
+      "bytes": 654
+    },
+    {
+      "path": "src/components/cms.tsx",
+      "sha1": "3d769c69d2cb67e5b4729e8f20b3442eafe96f8e",
+      "bytes": 5080
+    },
+    {
+      "path": "src/components/faq.tsx",
+      "sha1": "d7400b0fe9dced5cb6ec4e433a6a4f204e669b31",
+      "bytes": 2281
+    },
+    {
+      "path": "src/components/garden-network.tsx",
+      "sha1": "eb0b0dfb9bd2d2dc2ba7f333da8c0ba477fe45ad",
+      "bytes": 2252
+    },
+    {
+      "path": "src/components/garden-process.tsx",
+      "sha1": "2534a1ff63dad7e3497f2de68472557bf2c3355e",
+      "bytes": 1736
+    },
+    {
+      "path": "src/components/header.tsx",
+      "sha1": "aaed35099286e7bc2e9e38faa08a645d4dab5cd5",
+      "bytes": 3384
+    },
+    {
+      "path": "src/components/hero-video.tsx",
+      "sha1": "35539a4e46ba12263dedad239637bc180768da0f",
+      "bytes": 2638
+    },
+    {
+      "path": "src/components/icons.tsx",
+      "sha1": "e2b4e3a70e5a12c3d2a1fd0fb10b053130f79a43",
+      "bytes": 3564
+    },
+    {
+      "path": "src/components/shared.tsx",
+      "sha1": "8d7d8c0fa3c88424ce23757ef1c197d1b4802bf5",
+      "bytes": 4602
+    },
+    {
+      "path": "src/components/site-search.tsx",
+      "sha1": "7e7115cb36f03c70ddc0c4161b4a83eb272859ae",
+      "bytes": 3673
+    },
+    {
+      "path": "src/components/structured-data.tsx",
+      "sha1": "b8badc190b3c79cf27090f19e671e974c3804a4c",
+      "bytes": 253
+    },
+    {
+      "path": "src/fonts/OFL.txt",
+      "sha1": "12c29b4c541b7ba0f0d5d86818697558c1c28d76",
+      "bytes": 4387
+    },
+    {
+      "path": "src/fonts/Playfair-Display-OFL.txt",
+      "sha1": "e997375e22668c444135764f63ddae74fc617985",
+      "bytes": 4449
+    },
+    {
+      "path": "src/fonts/manrope-latin-ext.woff2",
+      "sha1": "77552b6bdaa744ec2e8ecf4bfab97629a27666c4",
+      "bytes": 15212
+    },
+    {
+      "path": "src/fonts/manrope-latin.woff2",
+      "sha1": "22630002bcd836218d8f0e5fdeb42a2232f7fbac",
+      "bytes": 24436
+    },
+    {
+      "path": "src/fonts/manrope-semibold.ttf",
+      "sha1": "a253028fc669444469e9782aceb9e3020814e4ea",
+      "bytes": 96348
+    },
+    {
+      "path": "src/fonts/playfair-display-regular.ttf",
+      "sha1": "026d8e89a4b47d89102231176e3de3dade770b99",
+      "bytes": 123240
+    },
+    {
+      "path": "src/fonts/playfair-display.woff2",
+      "sha1": "6053b90b6a04bcc03e05a8d3ee20b12aa880ca50",
+      "bytes": 62712
+    },
+    {
+      "path": "src/lib/admin/auth.ts",
+      "sha1": "8a92034a56f5443c74d4c30d73eeb5464c23af76",
+      "bytes": 5157
+    },
+    {
+      "path": "src/lib/admin/blog.ts",
+      "sha1": "1d7afc7a3c1e106416ef9e94ee11154d1bc80a4e",
+      "bytes": 2293
+    },
+    {
+      "path": "src/lib/admin/cms-registry.json",
+      "sha1": "34a7959099a36699af4dc9f18caf1bc2e63483dc",
+      "bytes": 60024
+    },
+    {
+      "path": "src/lib/admin/content.ts",
+      "sha1": "b5364f588e60b096c07d1306217279c954f3ae0f",
+      "bytes": 2160
+    },
+    {
+      "path": "src/lib/admin/db.ts",
+      "sha1": "04ee8fddf53f2fb9cd2298f2fd7079299334b446",
+      "bytes": 223
+    },
+    {
+      "path": "src/lib/admin/drafts.ts",
+      "sha1": "6cc7c2a506e4e6e74fdbaa475af1410059c87808",
+      "bytes": 5325
+    },
+    {
+      "path": "src/lib/admin/http.ts",
+      "sha1": "3a1ef8143757169bc872f363fa3cf65088903764",
+      "bytes": 1742
+    },
+    {
+      "path": "src/lib/admin/image-upload.ts",
+      "sha1": "bf8d67bb259bf4c01ddea243f3ea4bf139a6e8f0",
+      "bytes": 1914
+    },
+    {
+      "path": "src/lib/admin/media-cleanup.ts",
+      "sha1": "4db7c165c5223e44c32bdbe980d3715d5f6d2e8f",
+      "bytes": 553
+    },
+    {
+      "path": "src/lib/admin/page-media.ts",
+      "sha1": "b86a22a588a2fad4b1239f93310f194dad8e58dc",
+      "bytes": 3189
+    },
+    {
+      "path": "src/lib/admin/password-validation.ts",
+      "sha1": "8a3e0970c9b5270618f95491961103cda0cc281e",
+      "bytes": 714
+    },
+    {
+      "path": "src/lib/admin/preview-editor.ts",
+      "sha1": "1c1a669cfb16e03fa07e53d669239b5e679763c4",
+      "bytes": 6772
+    },
+    {
+      "path": "src/lib/admin/types.ts",
+      "sha1": "0affa6bfc97ec33307cb73513f7d9354bb078017",
+      "bytes": 387
+    },
+    {
+      "path": "src/lib/blog-server.ts",
+      "sha1": "79e4670fd8a389977b47ce7dd0a0c04166af1fcd",
+      "bytes": 379
+    },
+    {
+      "path": "src/lib/blog-shared.ts",
+      "sha1": "a120ebe3d877d7134c89aae7b8ae5c7906c199d0",
+      "bytes": 957
+    },
+    {
+      "path": "src/lib/blog.ts",
+      "sha1": "f6c39f476deec353245668520852a3707f567293",
+      "bytes": 16588
+    },
+    {
+      "path": "src/lib/cms-shared.ts",
+      "sha1": "a4f5da8b67e48629ab9ef23e9df70c93d13bdd7c",
+      "bytes": 2030
+    },
+    {
+      "path": "src/lib/content.ts",
+      "sha1": "fc0802f839fd103c0763ee59b6d54796d4fb416e",
+      "bytes": 4201
+    },
+    {
+      "path": "src/lib/legacy-routes.json",
+      "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+      "bytes": 3
+    },
+    {
+      "path": "src/lib/page-galleries.ts",
+      "sha1": "03f03e08d5a189f578b66923a07b9a497bc6b2e5",
+      "bytes": 284
+    },
+    {
+      "path": "src/lib/panel-config.ts",
+      "sha1": "5f4a950f6a48748d524d2301d2b9ddcefded0e9d",
+      "bytes": 3857
+    },
+    {
+      "path": "src/lib/post-index.ts",
+      "sha1": "a08878a8f4ded1f1ec391e0be564354409f71e8d",
+      "bytes": 187
+    },
+    {
+      "path": "src/lib/posts.ts",
+      "sha1": "4279a7002e2522d1e4700ced56b8e787ba4ffc2b",
+      "bytes": 114
+    },
+    {
+      "path": "src/lib/search-index.ts",
+      "sha1": "fdfa48b124d3652f3f27f47689787046fc80aecb",
+      "bytes": 2319
+    },
+    {
+      "path": "src/lib/search.ts",
+      "sha1": "02d410ecfba2a764b1a192bff270efc321df28bf",
+      "bytes": 1084
+    },
+    {
+      "path": "src/lib/seo.ts",
+      "sha1": "dcf50db615ad96e23ff47db00fac400564941da4",
+      "bytes": 2778
+    },
+    {
+      "path": "src/lib/site-url.ts",
+      "sha1": "33e03e1408ece03cffe62c96976e8356bb7a3a3f",
+      "bytes": 836
+    },
+    {
+      "path": "tsconfig.json",
+      "sha1": "9a9bc3a6406907c508ad71dbc03ce0a2e868ad38",
+      "bytes": 618
+    }
+  ]
+}

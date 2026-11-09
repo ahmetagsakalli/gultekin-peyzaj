@@ -1,0 +1,10 @@
+import { beforeEach, expect, it, vi } from "vitest";
+const mocks = vi.hoisted(() => ({ query:vi.fn(), del:vi.fn() }));
+vi.mock("server-only",()=>({}));
+vi.mock("../../src/lib/admin/db",()=>({database:()=>mocks.query}));
+vi.mock("@vercel/blob",()=>({del:mocks.del}));
+import { cleanupUncommittedMedia } from "../../src/lib/admin/media-cleanup";
+beforeEach(()=>{vi.clearAllMocks();});
+it("keeps image blobs after an ambiguous database transport failure",async()=>{mocks.query.mockRejectedValue(new Error("network"));await cleanupUncommittedMedia("id",["image"]);expect(mocks.del).not.toHaveBeenCalled();});
+it("keeps media referenced by an already committed draft",async()=>{mocks.query.mockResolvedValue([{id:"id"}]);await cleanupUncommittedMedia("id",["image"]);expect(mocks.del).not.toHaveBeenCalled();});
+it("removes an upload only after confirming it is not saved",async()=>{mocks.query.mockResolvedValue([]);await cleanupUncommittedMedia("id",["image"]);expect(mocks.del).toHaveBeenCalledWith(["image"]);});

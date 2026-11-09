@@ -1,0 +1,1261 @@
+{
+  "documents": [
+    {
+      "id": "/",
+      "path": "/",
+      "title": "Ana sayfa",
+      "group": "Sayfalar",
+      "fields": [
+        {
+          "id": "t1s773we_6",
+          "label": "Doğaya",
+          "text": "Doğaya"
+        },
+        {
+          "id": "t1jifsn2_14",
+          "label": "değer katarız.",
+          "text": "değer katarız."
+        },
+        {
+          "id": "t1x36hqj_23",
+          "label": "Bahçeniz için görüşelim",
+          "text": "Bahçeniz için görüşelim"
+        },
+        {
+          "id": "tajqc3k_13",
+          "label": "Hizmetlerimiz",
+          "text": "Hizmetlerimiz"
+        },
+        {
+          "id": "t1xa0wnh_9",
+          "label": "Peyzajdan",
+          "text": "Peyzajdan"
+        },
+        {
+          "id": "t3anayk_15",
+          "label": "bahçe bakımına.",
+          "text": "bahçe bakımına."
+        },
+        {
+          "id": "t1pf2b17_17",
+          "label": "Tüm hizmetlerimiz",
+          "text": "Tüm hizmetlerimiz"
+        },
+        {
+          "id": "t1hzqe38_13",
+          "label": "Bahçeniz için",
+          "text": "Bahçeniz için"
+        },
+        {
+          "id": "t1al0rb7_18",
+          "label": "nasıl ilerliyoruz?",
+          "text": "nasıl ilerliyoruz?"
+        },
+        {
+          "id": "t1cv43qz_8",
+          "label": "Bahçeden",
+          "text": "Bahçeden"
+        },
+        {
+          "id": "toimn1_7",
+          "label": "notlar.",
+          "text": "notlar."
+        },
+        {
+          "id": "t1snpdrq_11",
+          "label": "Tüm yazılar",
+          "text": "Tüm yazılar"
+        },
+        {
+          "id": "t1mcdz9n_12",
+          "label": "Merak ediyor",
+          "text": "Merak ediyor"
+        },
+        {
+          "id": "tc81j9u_14",
+          "label": "olabilirsiniz.",
+          "text": "olabilirsiniz."
+        },
+        {
+          "id": "t1kvn1oz_26",
+          "label": "Her şey bahçenizle başlar.",
+          "text": "Her şey bahçenizle başlar."
+        },
+        {
+          "id": "t1ldublb_25",
+          "label": "Birlikte değerlendirelim.",
+          "text": "Birlikte değerlendirelim."
+        },
+        {
+          "id": "t117u4z3_17",
+          "label": "Bahçenizi anlatın",
+          "text": "Bahçenizi anlatın"
+        },
+        {
+          "id": "t1j3ejc7_26",
+          "label": "Peyzaj tasarım ve uygulama",
+          "text": "Peyzaj tasarım ve uygulama"
+        },
+        {
+          "id": "t6dv8nl_22",
+          "label": "Periyodik bahçe bakımı",
+          "text": "Periyodik bahçe bakımı"
+        },
+        {
+          "id": "t1jaboy3_20",
+          "label": "Ağaç ve bitki budama",
+          "text": "Ağaç ve bitki budama"
+        },
+        {
+          "id": "t1b05c0j_18",
+          "label": "Bahçenizi anlatın.",
+          "text": "Bahçenizi anlatın."
+        },
+        {
+          "id": "tfr3xw_11",
+          "label": "İlk görüşme",
+          "text": "İlk görüşme"
+        },
+        {
+          "id": "t1079ujl_31",
+          "label": "İhtiyacı birlikte belirleyelim.",
+          "text": "İhtiyacı birlikte belirleyelim."
+        },
+        {
+          "id": "t16b560m_20",
+          "label": "Bahçenin ihtiyaçları",
+          "text": "Bahçenin ihtiyaçları"
+        },
+        {
+          "id": "t171dwz6_23",
+          "label": "Uygulamayı planlayalım.",
+          "text": "Uygulamayı planlayalım."
+        },
+        {
+          "id": "t1hr615s_14",
+          "label": "Uygulama planı",
+          "text": "Uygulama planı"
+        },
+        {
+          "id": "t1metts0_18",
+          "label": "Bakımı sürdürelim.",
+          "text": "Bakımı sürdürelim."
+        },
+        {
+          "id": "t17nhutp_13",
+          "label": "Düzenli bakım",
+          "text": "Düzenli bakım"
+        },
+        {
+          "id": "t1q11h9r_37",
+          "label": "Hangi bölgelerde hizmet veriyorsunuz?",
+          "text": "Hangi bölgelerde hizmet veriyorsunuz?"
+        },
+        {
+          "id": "t1jss604_112",
+          "label": "Atakum merkezliyiz. Samsun ve çevresindeki peyzaj, bakım ve budama …",
+          "text": "Atakum merkezliyiz. Samsun ve çevresindeki peyzaj, bakım ve budama işleri için bizimle iletişime geçebilirsiniz."
+        },
+        {
+          "id": "t17pvb9t_29",
+          "label": "Bahçe bakımı neleri kapsıyor?",
+          "text": "Bahçe bakımı neleri kapsıyor?"
+        },
+        {
+          "id": "tj1v9hv_143",
+          "label": "Periyodik bahçe bakımı kapsamında çim biçme, sulama ve genel bakım …",
+          "text": "Periyodik bahçe bakımı kapsamında çim biçme, sulama ve genel bakım işleriyle ilgileniyoruz. Bahçenizin ihtiyacını birlikte değerlendirebiliriz."
+        },
+        {
+          "id": "t17x65z5_35",
+          "label": "Bahçem için nasıl bilgi alabilirim?",
+          "text": "Bahçem için nasıl bilgi alabilirim?"
+        },
+        {
+          "id": "t1uuoxs2_150",
+          "label": "Bizi arayabilir ya da WhatsApp’tan yazabilirsiniz. Bahçenizin fotoğ…",
+          "text": "Bizi arayabilir ya da WhatsApp’tan yazabilirsiniz. Bahçenizin fotoğraflarını, bulunduğu bölgeyi ve yapılmasını istediğiniz işleri paylaşmanız yeterli."
+        },
+        {
+          "id": "tqa4lsx_44",
+          "label": "Mevcut bahçemi yeniden düzenleyebilir miyiz?",
+          "text": "Mevcut bahçemi yeniden düzenleyebilir miyiz?"
+        },
+        {
+          "id": "t1ngf3p8_134",
+          "label": "Peyzaj tasarım ve uygulama hizmetimiz için mevcut bahçenizin durumu…",
+          "text": "Peyzaj tasarım ve uygulama hizmetimiz için mevcut bahçenizin durumunu ve istediğiniz değişiklikleri Eren Gültekin’le görüşebilirsiniz."
+        }
+      ],
+      "images": [
+        "/images/hero.webp",
+        "/images/garden.webp",
+        "/images/mowing.webp",
+        "/images/pruning-action.webp",
+        "/images/soil.webp"
+      ]
+    },
+    {
+      "id": "/hizmetler/",
+      "path": "/hizmetler/",
+      "title": "Hizmetlerimiz",
+      "group": "Sayfalar",
+      "fields": [
+        {
+          "id": "t6r44it_17",
+          "label": "Bahçenize gereken",
+          "text": "Bahçenize gereken"
+        },
+        {
+          "id": "t15oh4ld_14",
+          "label": "ilgi ve bakım.",
+          "text": "ilgi ve bakım."
+        },
+        {
+          "id": "tpa7nbx_24",
+          "label": "Bu hizmet için görüşelim",
+          "text": "Bu hizmet için görüşelim"
+        },
+        {
+          "id": "t1j3ejc7_26",
+          "label": "Peyzaj tasarım ve uygulama",
+          "text": "Peyzaj tasarım ve uygulama"
+        },
+        {
+          "id": "t1egcife_15",
+          "label": "Peyzaj tasarımı",
+          "text": "Peyzaj tasarımı"
+        },
+        {
+          "id": "tuhuwis_147",
+          "label": "Yeni bir bahçe düzenlemesi ya da mevcut alanınızda bir değişiklik. …",
+          "text": "Yeni bir bahçe düzenlemesi ya da mevcut alanınızda bir değişiklik. Peyzaj tasarım ve uygulama ihtiyaçlarınız için bizimle iletişime geçebilirsiniz."
+        },
+        {
+          "id": "ta0qzxw_17",
+          "label": "Bahçe düzenlemesi",
+          "text": "Bahçe düzenlemesi"
+        },
+        {
+          "id": "t1j9ns0x_17",
+          "label": "Peyzaj uygulaması",
+          "text": "Peyzaj uygulaması"
+        },
+        {
+          "id": "t6dv8nl_22",
+          "label": "Periyodik bahçe bakımı",
+          "text": "Periyodik bahçe bakımı"
+        },
+        {
+          "id": "tpq9zvv_12",
+          "label": "Bahçe bakımı",
+          "text": "Bahçe bakımı"
+        },
+        {
+          "id": "t18vmgcr_139",
+          "label": "Bahçenin bakımı düzenli ilgi ister. Çim biçme, sulama ve genel bahç…",
+          "text": "Bahçenin bakımı düzenli ilgi ister. Çim biçme, sulama ve genel bahçe bakımı için ihtiyacınıza uygun bir bakım düzeni üzerine görüşebiliriz."
+        },
+        {
+          "id": "tym2pz8_9",
+          "label": "Çim biçme",
+          "text": "Çim biçme"
+        },
+        {
+          "id": "t1pe4j1k_6",
+          "label": "Sulama",
+          "text": "Sulama"
+        },
+        {
+          "id": "tw5k1rd_20",
+          "label": "Düzenli bahçe bakımı",
+          "text": "Düzenli bahçe bakımı"
+        },
+        {
+          "id": "t1jaboy3_20",
+          "label": "Ağaç ve bitki budama",
+          "text": "Ağaç ve bitki budama"
+        },
+        {
+          "id": "t7p5c4t_6",
+          "label": "Budama",
+          "text": "Budama"
+        },
+        {
+          "id": "t1pxfekw_137",
+          "label": "Bahçenizdeki ağaç ve bitkilerin budama işleri için bizi arayabilirs…",
+          "text": "Bahçenizdeki ağaç ve bitkilerin budama işleri için bizi arayabilirsiniz. Bitkinin mevcut durumunu ve yapılacak işi görüşerek ilerleyelim."
+        },
+        {
+          "id": "t1se644z_11",
+          "label": "Ağaç budama",
+          "text": "Ağaç budama"
+        },
+        {
+          "id": "tiprudo_12",
+          "label": "Bitki budama",
+          "text": "Bitki budama"
+        },
+        {
+          "id": "t1dmqh4b_19",
+          "label": "Bahçe içi düzenleme",
+          "text": "Bahçe içi düzenleme"
+        }
+      ],
+      "images": [
+        "/images/garden.webp",
+        "/images/mowing.webp",
+        "/images/pruning-action.webp"
+      ]
+    },
+    {
+      "id": "/hakkimizda/",
+      "path": "/hakkimizda/",
+      "title": "Hakkımızda",
+      "group": "Sayfalar",
+      "fields": [
+        {
+          "id": "tl06mqx_8",
+          "label": "Gültekin",
+          "text": "Gültekin"
+        },
+        {
+          "id": "t1r8gdt6_6",
+          "label": "Peyzaj",
+          "text": "Peyzaj"
+        },
+        {
+          "id": "t1becuv4_157",
+          "label": "Gültekin Peyzaj olarak Atakum’dan Samsun ve çevresine hizmet veriyo…",
+          "text": "Gültekin Peyzaj olarak Atakum’dan Samsun ve çevresine hizmet veriyoruz. Peyzaj tasarım ve uygulama, periyodik bahçe bakımı ve budama işleriyle ilgileniyoruz."
+        },
+        {
+          "id": "t7n68cu_114",
+          "label": "İhtiyacınızı Eren Gültekin’e doğrudan anlatabilir, bahçenizin fotoğ…",
+          "text": "İhtiyacınızı Eren Gültekin’e doğrudan anlatabilir, bahçenizin fotoğraflarını WhatsApp üzerinden paylaşabilirsiniz."
+        },
+        {
+          "id": "tajqc3k_13",
+          "label": "Hizmetlerimiz",
+          "text": "Hizmetlerimiz"
+        },
+        {
+          "id": "t1caqen5_14",
+          "label": "0545 951 23 53",
+          "text": "0545 951 23 53"
+        }
+      ],
+      "images": [
+        "/images/lawn.webp"
+      ]
+    },
+    {
+      "id": "/iletisim/",
+      "path": "/iletisim/",
+      "title": "İletişim",
+      "group": "Sayfalar",
+      "fields": [
+        {
+          "id": "t1hzqe38_13",
+          "label": "Bahçeniz için",
+          "text": "Bahçeniz için"
+        },
+        {
+          "id": "t1oi2dvy_10",
+          "label": "konuşalım.",
+          "text": "konuşalım."
+        },
+        {
+          "id": "t1nxs6yd_11",
+          "label": "Bizi arayın",
+          "text": "Bizi arayın"
+        },
+        {
+          "id": "tsipey_18",
+          "label": "WhatsApp’tan yazın",
+          "text": "WhatsApp’tan yazın"
+        },
+        {
+          "id": "t1jim0k1_79",
+          "label": "Bahçenizin fotoğraflarını ve ihtiyacınızı WhatsApp üzerinden paylaş…",
+          "text": "Bahçenizin fotoğraflarını ve ihtiyacınızı WhatsApp üzerinden paylaşabilirsiniz."
+        },
+        {
+          "id": "t4bnti3_9",
+          "label": "Instagram",
+          "text": "Instagram"
+        },
+        {
+          "id": "t1bs8hg1_8",
+          "label": "Facebook",
+          "text": "Facebook"
+        },
+        {
+          "id": "ttia2o_15",
+          "label": "Gültekin Peyzaj",
+          "text": "Gültekin Peyzaj"
+        },
+        {
+          "id": "t11qmqov_13",
+          "label": "Eren Gültekin",
+          "text": "Eren Gültekin"
+        },
+        {
+          "id": "t1caqen5_14",
+          "label": "0545 951 23 53",
+          "text": "0545 951 23 53"
+        },
+        {
+          "id": "tuse5r6_15",
+          "label": "Atakum / Samsun",
+          "text": "Atakum / Samsun"
+        },
+        {
+          "id": "tjcmfxs_17",
+          "label": "Samsun ve çevresi",
+          "text": "Samsun ve çevresi"
+        },
+        {
+          "id": "tfe9qc1_13",
+          "label": "@gultknpeyzaj",
+          "text": "@gultknpeyzaj"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "/blog/",
+      "path": "/blog/",
+      "title": "Blog",
+      "group": "Sayfalar",
+      "fields": [
+        {
+          "id": "t1cv43qz_8",
+          "label": "Bahçeden",
+          "text": "Bahçeden"
+        },
+        {
+          "id": "toimn1_7",
+          "label": "notlar.",
+          "text": "notlar."
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "shared",
+      "path": "/",
+      "title": "Üst menü ve alt bilgi",
+      "group": "Ortak alanlar",
+      "fields": [
+        {
+          "id": "tsipey_18",
+          "label": "WhatsApp’tan yazın",
+          "text": "WhatsApp’tan yazın"
+        },
+        {
+          "id": "t1j7x4f9_21",
+          "label": "Doğaya değer katarız.",
+          "text": "Doğaya değer katarız."
+        },
+        {
+          "id": "tajqc3k_13",
+          "label": "Hizmetlerimiz",
+          "text": "Hizmetlerimiz"
+        },
+        {
+          "id": "t1wzsbze_19",
+          "label": "Çim biçme ve sulama",
+          "text": "Çim biçme ve sulama"
+        },
+        {
+          "id": "ttia2o_15",
+          "label": "Gültekin Peyzaj",
+          "text": "Gültekin Peyzaj"
+        },
+        {
+          "id": "ta6nw6e_8",
+          "label": "İletişim",
+          "text": "İletişim"
+        },
+        {
+          "id": "t4bnti3_9",
+          "label": "Instagram",
+          "text": "Instagram"
+        },
+        {
+          "id": "t1bs8hg1_8",
+          "label": "Facebook",
+          "text": "Facebook"
+        },
+        {
+          "id": "t1bqird0_1",
+          "label": "©",
+          "text": "©"
+        },
+        {
+          "id": "tjcmfxs_17",
+          "label": "Samsun ve çevresi",
+          "text": "Samsun ve çevresi"
+        },
+        {
+          "id": "t1pvodvd_35",
+          "label": "Web tasarım, uygulama ve geliştirme",
+          "text": "Web tasarım, uygulama ve geliştirme"
+        },
+        {
+          "id": "tulgjta_19",
+          "label": "kocyigityazilim.com",
+          "text": "kocyigityazilim.com"
+        },
+        {
+          "id": "t4d60ef_9",
+          "label": "Ana Sayfa",
+          "text": "Ana Sayfa"
+        },
+        {
+          "id": "tdgbiii_10",
+          "label": "Hakkımızda",
+          "text": "Hakkımızda"
+        },
+        {
+          "id": "t1jdup01_4",
+          "label": "Blog",
+          "text": "Blog"
+        },
+        {
+          "id": "t1j3ejc7_26",
+          "label": "Peyzaj tasarım ve uygulama",
+          "text": "Peyzaj tasarım ve uygulama"
+        },
+        {
+          "id": "t6dv8nl_22",
+          "label": "Periyodik bahçe bakımı",
+          "text": "Periyodik bahçe bakımı"
+        },
+        {
+          "id": "t1jaboy3_20",
+          "label": "Ağaç ve bitki budama",
+          "text": "Ağaç ve bitki budama"
+        },
+        {
+          "id": "t11qmqov_13",
+          "label": "Eren Gültekin",
+          "text": "Eren Gültekin"
+        },
+        {
+          "id": "t1caqen5_14",
+          "label": "0545 951 23 53",
+          "text": "0545 951 23 53"
+        },
+        {
+          "id": "tuse5r6_15",
+          "label": "Atakum / Samsun",
+          "text": "Atakum / Samsun"
+        },
+        {
+          "id": "tfe9qc1_13",
+          "label": "@gultknpeyzaj",
+          "text": "@gultknpeyzaj"
+        }
+      ],
+      "images": [
+        "/images/logo.webp"
+      ]
+    },
+    {
+      "id": "/blog/bahce-duzenlemesine-nereden-baslamali/",
+      "path": "/blog/bahce-duzenlemesine-nereden-baslamali/",
+      "title": "Bahçe düzenlemesine nereden başlamalı?",
+      "group": "Yazılar",
+      "fields": [
+        {
+          "id": "t7f1iob_38",
+          "label": "Bahçe düzenlemesine nereden başlamalı?",
+          "text": "Bahçe düzenlemesine nereden başlamalı?"
+        },
+        {
+          "id": "t1rsc1na_287",
+          "label": "Yeni bir bahçe düşünürken ilk karar çoğu zaman bitki seçimi oluyor.…",
+          "text": "Yeni bir bahçe düşünürken ilk karar çoğu zaman bitki seçimi oluyor. Oysa önce alanı nasıl kullanacağınızı belirlemek, sonradan yapılacak değişiklikleri azaltır. Oturmak, yürümek, çocuklarla vakit geçirmek ya da yalnızca yeşile bakmak: bahçenin düzeni günlük hayatınıza göre şekillenmeli."
+        },
+        {
+          "id": "te3pmsu_24",
+          "label": "Önce bahçeyi gözlemleyin",
+          "text": "Önce bahçeyi gözlemleyin"
+        },
+        {
+          "id": "t3sn20_351",
+          "label": "Bir gün içinde aynı noktaya birkaç kez bakın. Sabah güneş alan bir …",
+          "text": "Bir gün içinde aynı noktaya birkaç kez bakın. Sabah güneş alan bir köşe öğleden sonra gölgede kalabilir. Yağmurdan sonra suyun nerede biriktiğini, hangi geçişlerin çamur olduğunu ve rüzgârın en çok hangi bölüme geldiğini not edin. Çiziminiz kusursuz olmak zorunda değil; kapıları, mevcut ağaçları ve kullanmak istediğiniz alanları işaretlemek yeterli."
+        },
+        {
+          "id": "t14fads3_229",
+          "label": "Bahçenin farklı köşelerinden çekilmiş fotoğraflar da işe yarar. Sad…",
+          "text": "Bahçenin farklı köşelerinden çekilmiş fotoğraflar da işe yarar. Sadece güzel bulduğunuz yerleri değil, çözmek istediğiniz noktaları da kaydedin. Böylece görüşme sırasında neyin korunacağı ve neyin değişeceği daha kolay anlaşılır."
+        },
+        {
+          "id": "tqw5r9k_43",
+          "label": "Geçişleri ve kullanım alanlarını belirleyin",
+          "text": "Geçişleri ve kullanım alanlarını belirleyin"
+        },
+        {
+          "id": "t1y02pa6_332",
+          "label": "Evden bahçeye çıktığınızda izlediğiniz yol, oturma alanının konumu …",
+          "text": "Evden bahçeye çıktığınızda izlediğiniz yol, oturma alanının konumu ve bakım ekipmanıyla geçilecek yerler birlikte düşünülmeli. Bir bitki grubunun içinden sürekli yürümek zorunda kalıyorsanız, sorun bitkilerde değil yerleşimde olabilir. Önce yürüyüş ve kullanım alanlarını yerleştirin, bitkilendirmeyi bu düzenin çevresinde ele alın."
+        },
+        {
+          "id": "t1tm8mgp_27",
+          "label": "Bakımı da planın içine alın",
+          "text": "Bakımı da planın içine alın"
+        },
+        {
+          "id": "t11bnit1_285",
+          "label": "Ayırabileceğiniz bakım zamanını baştan söyleyin. Geniş çim alan, ço…",
+          "text": "Ayırabileceğiniz bakım zamanını baştan söyleyin. Geniş çim alan, çok sayıda saksı veya sık şekil verilmesi gereken bitkiler farklı bakım düzenleri ister. Bitki seçiminde ışık kadar toprağın yapısını da dikkate alın. Aynı bahçenin her noktasında aynı koşulların bulunduğunu varsaymayın."
+        },
+        {
+          "id": "tj15uyh_220",
+          "label": "İlk görüşme için bahçenin yaklaşık ölçüsü, fotoğrafları ve kısa bir…",
+          "text": "İlk görüşme için bahçenin yaklaşık ölçüsü, fotoğrafları ve kısa bir ihtiyaç listesi iyi bir başlangıçtır. Önceliklerinizi sıralayın: önce geçiş yolu mu, mevcut çimin bakımı mı, yoksa bütün alanın yeniden düzenlenmesi mi?"
+        },
+        {
+          "id": "t23dgl3_28",
+          "label": "RHS — Toprak yapısını tanıma",
+          "text": "RHS — Toprak yapısını tanıma"
+        },
+        {
+          "id": "t9frnzx_9",
+          "label": "Kaynaklar",
+          "text": "Kaynaklar"
+        },
+        {
+          "id": "t1jdup01_4",
+          "label": "Blog",
+          "text": "Blog"
+        },
+        {
+          "id": "t1v493py_13",
+          "label": "Diğer yazılar",
+          "text": "Diğer yazılar"
+        }
+      ],
+      "images": [
+        "/images/trees.webp"
+      ]
+    },
+    {
+      "id": "/blog/cim-bicerken-nelere-dikkat-edilmeli/",
+      "path": "/blog/cim-bicerken-nelere-dikkat-edilmeli/",
+      "title": "Çim biçerken nelere dikkat edilmeli?",
+      "group": "Yazılar",
+      "fields": [
+        {
+          "id": "tg3z4wy_36",
+          "label": "Çim biçerken nelere dikkat edilmeli?",
+          "text": "Çim biçerken nelere dikkat edilmeli?"
+        },
+        {
+          "id": "t16y840_259",
+          "label": "Çimi çok kısa kesmek, bir sonraki biçimi ertelemenin iyi bir yolu d…",
+          "text": "Çimi çok kısa kesmek, bir sonraki biçimi ertelemenin iyi bir yolu değildir. Düzenli bir görünüm için kesim yüksekliği, çimin ne kadar uzadığı ve zeminin durumu birlikte değerlendirilmelidir. Her bahçede aynı makine ayarıyla ilerlemek doğru sonuç vermeyebilir."
+        },
+        {
+          "id": "t10gt070_29",
+          "label": "Bir seferde fazla kısaltmayın",
+          "text": "Bir seferde fazla kısaltmayın"
+        },
+        {
+          "id": "t16bs99f_294",
+          "label": "Genel yaklaşım, tek biçimde yaprak uzunluğunun üçte birinden fazlas…",
+          "text": "Genel yaklaşım, tek biçimde yaprak uzunluğunun üçte birinden fazlasını almamaktır. Çim uzun süre biçilmediyse istenen yüksekliğe birkaç aşamada inmek daha uygundur. Kesim yüksekliği çim türüne, mevsime ve kullanım biçimine bağlıdır; bütün bahçeler için geçerli tek bir santimetre değeri yoktur."
+        },
+        {
+          "id": "t164ob32_27",
+          "label": "Islak zeminde acele etmeyin",
+          "text": "Islak zeminde acele etmeyin"
+        },
+        {
+          "id": "tx77pwt_302",
+          "label": "Çok ıslak, donmuş veya ayak altında kolayca iz bırakan bir zeminde …",
+          "text": "Çok ıslak, donmuş veya ayak altında kolayca iz bırakan bir zeminde biçimi erteleyin. Yumuşak toprakta makineyle dolaşmak sıkışmaya, kesim sırasında da çim yüzeyinin zarar görmesine yol açabilir. Bıçakların temiz ve keskin olması düzgün kesim için önemlidir; kör bıçaklar yaprak uçlarını parçalayabilir."
+        },
+        {
+          "id": "t55eybn_31",
+          "label": "Takvimi büyümeye göre ayarlayın",
+          "text": "Takvimi büyümeye göre ayarlayın"
+        },
+        {
+          "id": "tglpgvm_220",
+          "label": "Biçim sıklığını yalnızca haftanın belirli bir gününe bağlamayın. Çi…",
+          "text": "Biçim sıklığını yalnızca haftanın belirli bir gününe bağlamayın. Çimin büyüme hızı, yağış ve sıcaklık değiştikçe bakım aralığı da değişir. Kurak dönemde büyüme yavaşladığında daha seyrek ve daha yüksek kesim gerekebilir."
+        },
+        {
+          "id": "tdc71rt_354",
+          "label": "Bahçenizi takip etmek için biçim tarihlerini ve kullandığınız yükse…",
+          "text": "Bahçenizi takip etmek için biçim tarihlerini ve kullandığınız yüksekliği küçük bir notta tutabilirsiniz. Özellikle aynı yerde tekrar eden sararma veya seyrelme varsa fotoğraf çekin. Bu kayıt, bakım konuşulurken yalnızca son görüntüye değil değişimin seyrine de bakmayı sağlar. Kullanacağınız makinenin ayarlarını kendi kullanım kılavuzundan kontrol edin."
+        },
+        {
+          "id": "tf4z8m8_23",
+          "label": "RHS — Çim biçme rehberi",
+          "text": "RHS — Çim biçme rehberi"
+        },
+        {
+          "id": "t9frnzx_9",
+          "label": "Kaynaklar",
+          "text": "Kaynaklar"
+        },
+        {
+          "id": "t1jdup01_4",
+          "label": "Blog",
+          "text": "Blog"
+        },
+        {
+          "id": "t1v493py_13",
+          "label": "Diğer yazılar",
+          "text": "Diğer yazılar"
+        }
+      ],
+      "images": [
+        "/images/mowing.webp"
+      ]
+    },
+    {
+      "id": "/blog/bahce-sulamasinda-dogru-aliskanliklar/",
+      "path": "/blog/bahce-sulamasinda-dogru-aliskanliklar/",
+      "title": "Bahçe sulamasında doğru alışkanlıklar",
+      "group": "Yazılar",
+      "fields": [
+        {
+          "id": "t1if38sn_37",
+          "label": "Bahçe sulamasında doğru alışkanlıklar",
+          "text": "Bahçe sulamasında doğru alışkanlıklar"
+        },
+        {
+          "id": "t1586p4o_250",
+          "label": "Sulamada en sık karşılaşılan yanılgılardan biri, her bitkinin her g…",
+          "text": "Sulamada en sık karşılaşılan yanılgılardan biri, her bitkinin her gün aynı miktarda su istediğini düşünmektir. Saksıda yetişen bir bitkiyle yıllardır toprakta bulunan bir ağacın ihtiyacı aynı değildir. Yeni dikilmiş bitkiler de ayrı takip gerektirir."
+        },
+        {
+          "id": "tuq4uk1_24",
+          "label": "Yüzeyden fazlasına bakın",
+          "text": "Yüzeyden fazlasına bakın"
+        },
+        {
+          "id": "t1ylvnj_280",
+          "label": "Toprağın üstü kuru görünse de biraz altında nem bulunabilir. Sulama…",
+          "text": "Toprağın üstü kuru görünse de biraz altında nem bulunabilir. Sulamadan önce kök çevresindeki nemi kontrol edin. Saksılarda yüzeyin birkaç santimetre altına bakmak daha anlamlıdır. Yaprakların görünümü de fikir verir; ancak tek başına bir belirtiye bakarak su miktarını artırmayın."
+        },
+        {
+          "id": "t1xa9157_28",
+          "label": "Suyu kök bölgesine ulaştırın",
+          "text": "Suyu kök bölgesine ulaştırın"
+        },
+        {
+          "id": "tm12vm3_314",
+          "label": "Suyu yavaş vererek toprağa işlemesine fırsat tanıyın. Yalnızca yüze…",
+          "text": "Suyu yavaş vererek toprağa işlemesine fırsat tanıyın. Yalnızca yüzeyi ıslatıp geçmek yerine köklerin bulunduğu katmanın nemlenip nemlenmediğini değerlendirin. Yeni çim, yeni dikilen fidan ve yerleşmiş bitkiler için aynı süreyi kullanmayın. İhtiyaç; toprağın yapısı, bitkinin büyüklüğü ve hava koşullarıyla değişir."
+        },
+        {
+          "id": "tf9r546_31",
+          "label": "Yağmurdan sonra da kontrol edin",
+          "text": "Yağmurdan sonra da kontrol edin"
+        },
+        {
+          "id": "tk4rgni_259",
+          "label": "Yağmur yağmış olması her köşenin eşit ıslandığı anlamına gelmez. Sa…",
+          "text": "Yağmur yağmış olması her köşenin eşit ıslandığı anlamına gelmez. Saçak altında, duvar dibinde veya yoğun ağaç örtüsü altında kalan bitkilerin toprağı daha kuru olabilir. Otomatik bir sistem kullanıyorsanız programı mevsim boyunca hiç değiştirmeden bırakmayın."
+        },
+        {
+          "id": "t1mrhhc7_330",
+          "label": "Sulama takibi için bahçeyi birkaç bölüme ayırabilirsiniz: saksılar,…",
+          "text": "Sulama takibi için bahçeyi birkaç bölüme ayırabilirsiniz: saksılar, yeni dikimler, çim alan ve yerleşmiş bitkiler. Hangi bölümün ne zaman sulandığını not etmek, gereksiz tekrarları fark etmeyi kolaylaştırır. Bir bölgede sürekli su birikiyorsa yalnızca süreyi azaltmakla yetinmeyin; suyun o noktada neden toplandığını da inceleyin."
+        },
+        {
+          "id": "t10yeefm_23",
+          "label": "RHS — Bitkilerde sulama",
+          "text": "RHS — Bitkilerde sulama"
+        },
+        {
+          "id": "t9frnzx_9",
+          "label": "Kaynaklar",
+          "text": "Kaynaklar"
+        },
+        {
+          "id": "t1jdup01_4",
+          "label": "Blog",
+          "text": "Blog"
+        },
+        {
+          "id": "t1v493py_13",
+          "label": "Diğer yazılar",
+          "text": "Diğer yazılar"
+        }
+      ],
+      "images": [
+        "/images/watering.webp"
+      ]
+    },
+    {
+      "id": "/blog/budama-zamani-her-bitkide-ayni-degil/",
+      "path": "/blog/budama-zamani-her-bitkide-ayni-degil/",
+      "title": "Budama zamanı her bitkide aynı değil",
+      "group": "Yazılar",
+      "fields": [
+        {
+          "id": "tbwprls_36",
+          "label": "Budama zamanı her bitkide aynı değil",
+          "text": "Budama zamanı her bitkide aynı değil"
+        },
+        {
+          "id": "t17ccbwm_311",
+          "label": "Bahçedeki bütün ağaç ve çalıları aynı gün, aynı biçimde budamak pra…",
+          "text": "Bahçedeki bütün ağaç ve çalıları aynı gün, aynı biçimde budamak pratik görünebilir. Ancak doğru zaman bitkinin türüne ve hangi dallarda çiçek açtığına göre değişir. Budamaya başlamadan önce yapılacak işin amacını belirlemek gerekir: kuru dalları almak, biçim vermek veya fazla büyümeyi azaltmak farklı işlerdir."
+        },
+        {
+          "id": "t9to2wr_40",
+          "label": "Bitkinin adını ve çiçeklenmesini öğrenin",
+          "text": "Bitkinin adını ve çiçeklenmesini öğrenin"
+        },
+        {
+          "id": "tic7y9o_313",
+          "label": "İlkbaharda çiçek açan pek çok çalı, tomurcuklarını önceki dönemin d…",
+          "text": "İlkbaharda çiçek açan pek çok çalı, tomurcuklarını önceki dönemin dallarında taşır. Çiçeklenmeden önce yapılan yoğun budama bu tomurcukları da götürebilir. Yazın çiçek açan bazı türlerde ise yeni sürgünler önemlidir. Bu nedenle yalnızca mevsime bakarak karar vermek yerine türün bakım bilgisi kontrol edilmelidir."
+        },
+        {
+          "id": "t1u3jcw_36",
+          "label": "Yeni dikilen bitkiye farklı yaklaşın",
+          "text": "Yeni dikilen bitkiye farklı yaklaşın"
+        },
+        {
+          "id": "t1vgr1ls_328",
+          "label": "Yeni dikilmiş ağaç ve çalılarda ilk yıllarda çoğunlukla hafif düzel…",
+          "text": "Yeni dikilmiş ağaç ve çalılarda ilk yıllarda çoğunlukla hafif düzeltme yeterlidir. Uzun süredir bakılmamış büyük bir bitkide yapılacak iş bununla aynı değildir. Yaşlanmış veya fazla sıklaşmış çalıların yenilenmesi bazen birkaç yıla yayılan bir plan gerektirir; hepsini bir kerede sert biçimde kısaltmak her tür için uygun olmaz."
+        },
+        {
+          "id": "txfjtq7_47",
+          "label": "Kesmeden önce neyi değiştireceğinizi belirleyin",
+          "text": "Kesmeden önce neyi değiştireceğinizi belirleyin"
+        },
+        {
+          "id": "t9wxbz1_286",
+          "label": "Bahçenin genel bir fotoğrafını ve budanacak bitkinin yakın planını …",
+          "text": "Bahçenin genel bir fotoğrafını ve budanacak bitkinin yakın planını çekin. Yola taşan dalı, kapanan görüşü veya korumak istediğiniz çiçeklenmeyi fotoğraf üzerinde göstermek işi netleştirir. Bitkinin adını bilmiyorsanız gelişigüzel bir takvim uygulamak yerine önce tanımlanmasını isteyin."
+        },
+        {
+          "id": "t127ssiw_243",
+          "label": "Görüşmeye hazırlık için bitkinin yaklaşık yüksekliğini, en son ne z…",
+          "text": "Görüşmeye hazırlık için bitkinin yaklaşık yüksekliğini, en son ne zaman budandığını ve bu yıl çiçek açıp açmadığını not edin. Yüksek ağaçlar ya da büyük dallar söz konusuysa kullanılacak ekipman ve erişim koşulları ayrıca değerlendirilmelidir."
+        },
+        {
+          "id": "t1ik0wkv_22",
+          "label": "RHS — Çalılarda budama",
+          "text": "RHS — Çalılarda budama"
+        },
+        {
+          "id": "t9frnzx_9",
+          "label": "Kaynaklar",
+          "text": "Kaynaklar"
+        },
+        {
+          "id": "t1jdup01_4",
+          "label": "Blog",
+          "text": "Blog"
+        },
+        {
+          "id": "t1v493py_13",
+          "label": "Diğer yazılar",
+          "text": "Diğer yazılar"
+        }
+      ],
+      "images": [
+        "/images/pruning-action.webp"
+      ]
+    },
+    {
+      "id": "/blog/sonbaharda-cim-bakimi/",
+      "path": "/blog/sonbaharda-cim-bakimi/",
+      "title": "Sonbaharda çim alanı gözden geçirmek",
+      "group": "Yazılar",
+      "fields": [
+        {
+          "id": "t11mr1ex_36",
+          "label": "Sonbaharda çim alanı gözden geçirmek",
+          "text": "Sonbaharda çim alanı gözden geçirmek"
+        },
+        {
+          "id": "t1hlxq2i_272",
+          "label": "Yaz boyunca kullanılan bir çim alanın her köşesi aynı şekilde yıpra…",
+          "text": "Yaz boyunca kullanılan bir çim alanın her köşesi aynı şekilde yıpranmaz. Oturma grubunun yanı, sık yürünülen geçişler veya uzun süre susuz kalan bölümler farklı görünebilir. Sonbahar bakımı, bütün işlemleri sırasıyla uygulamak yerine önce bu farkları görerek başlamalıdır."
+        },
+        {
+          "id": "t1ugocsx_32",
+          "label": "Alanı bölümler halinde inceleyin",
+          "text": "Alanı bölümler halinde inceleyin"
+        },
+        {
+          "id": "t1h15124_365",
+          "label": "Bahçede yavaşça dolaşıp seyrekleşen ve sık kullanılan noktaları işa…",
+          "text": "Bahçede yavaşça dolaşıp seyrekleşen ve sık kullanılan noktaları işaretleyin. Çim yaprakları arasında toprağı görmeyi engelleyen kalın bir kuru artık tabakası olup olmadığına bakın. İhtiyaca göre yapılacak yüzey temizliği, suyun toprağa ulaşmasını ve bitkiler arasındaki hava hareketini destekleyebilir. Her çim alanın her yıl aynı yoğunlukta işlem görmesi gerekmez."
+        },
+        {
+          "id": "t5fa4a_28",
+          "label": "Sıkışan bölgeleri ayırt edin",
+          "text": "Sıkışan bölgeleri ayırt edin"
+        },
+        {
+          "id": "ty6x9yp_320",
+          "label": "Sık kullanılan yerlerde toprak sıkışması görülebilir. Uygun havalan…",
+          "text": "Sık kullanılan yerlerde toprak sıkışması görülebilir. Uygun havalandırma işlemleri kök çevresinde hava ve su hareketine yardımcı olur; ancak işlem türü alanın durumuna göre seçilmelidir. Çimdeki her boşluk aynı nedenden oluşmaz. Onarıma geçmeden önce gölge, kullanım yoğunluğu ve suyun dağılımını birlikte değerlendirin."
+        },
+        {
+          "id": "t1a9j0e5_40",
+          "label": "Bakım gününü hava koşullarına göre seçin",
+          "text": "Bakım gününü hava koşullarına göre seçin"
+        },
+        {
+          "id": "tg85ntf_267",
+          "label": "Ilıman ve nemli koşullar çimin toparlanması için elverişli olabilir…",
+          "text": "Ilıman ve nemli koşullar çimin toparlanması için elverişli olabilir. Bununla birlikte takvimde sonbahar yazması tek başına yeterli değildir. Çok ıslak veya donmuş zeminde çalışmayı ertelemek gerekir. Bölgenin o günkü koşullarını ve kullanılan çim türünü dikkate alın."
+        },
+        {
+          "id": "tyg10qo_303",
+          "label": "Bakım öncesinde ve sonrasında aynı açıdan fotoğraf çekmek değişimi …",
+          "text": "Bakım öncesinde ve sonrasında aynı açıdan fotoğraf çekmek değişimi izlemeyi kolaylaştırır. Yapılan işi, kullanılan malzemeyi ve tarihi bir yere kaydedin. Sonraki bakımda bu kayda bakarak gerçekten ihtiyaç duyulan işlemlere karar verebilir, her defasında baştan aynı uygulamaları tekrarlamamış olursunuz."
+        },
+        {
+          "id": "tv8rn77_27",
+          "label": "RHS — Sonbaharda çim bakımı",
+          "text": "RHS — Sonbaharda çim bakımı"
+        },
+        {
+          "id": "t1akzacr_34",
+          "label": "RHS — Çim biçme ve zemin koşulları",
+          "text": "RHS — Çim biçme ve zemin koşulları"
+        },
+        {
+          "id": "t9frnzx_9",
+          "label": "Kaynaklar",
+          "text": "Kaynaklar"
+        },
+        {
+          "id": "t1jdup01_4",
+          "label": "Blog",
+          "text": "Blog"
+        },
+        {
+          "id": "t1v493py_13",
+          "label": "Diğer yazılar",
+          "text": "Diğer yazılar"
+        }
+      ],
+      "images": [
+        "/images/autumn.webp"
+      ]
+    },
+    {
+      "id": "/blog/bitki-secmeden-once-topragi-taniyin/",
+      "path": "/blog/bitki-secmeden-once-topragi-taniyin/",
+      "title": "Bitki seçmeden önce toprağı tanıyın",
+      "group": "Yazılar",
+      "fields": [
+        {
+          "id": "t1vmn1m2_35",
+          "label": "Bitki seçmeden önce toprağı tanıyın",
+          "text": "Bitki seçmeden önce toprağı tanıyın"
+        },
+        {
+          "id": "t13n6cgo_237",
+          "label": "Bir bitkinin fotoğrafını beğenmek, bahçenizde aynı şekilde gelişece…",
+          "text": "Bir bitkinin fotoğrafını beğenmek, bahçenizde aynı şekilde gelişeceği anlamına gelmez. Işık ve yerleşim kadar köklerin bulunduğu toprak da önemlidir. Bitki almadan önce zemini tanımak, bakım planını daha gerçekçi kurmanıza yardımcı olur."
+        },
+        {
+          "id": "th02gfg_29",
+          "label": "Su toprakta nasıl davranıyor?",
+          "text": "Su toprakta nasıl davranıyor?"
+        },
+        {
+          "id": "txbnkls_339",
+          "label": "Killi topraklar suyu daha uzun tutabilir ve ıslakken kolay sıkışabi…",
+          "text": "Killi topraklar suyu daha uzun tutabilir ve ıslakken kolay sıkışabilir. Kumlu topraklar ise genellikle daha hızlı süzülür ve daha çabuk kurur. Bir avuç nemli toprağın dokusu başlangıç için fikir verir: belirgin taneler kumlu yapıya, ele yapışan ve şekil alan doku killi yapıya işaret edebilir. Bu gözlem ayrıntılı bir analiz yerine geçmez."
+        },
+        {
+          "id": "t1rvl9rv_36",
+          "label": "Bahçenin her köşesi aynı olmayabilir",
+          "text": "Bahçenin her köşesi aynı olmayabilir"
+        },
+        {
+          "id": "tbkelp9_278",
+          "label": "İnşaat, dolgu veya geçmişte yapılan düzenlemeler farklı toprakları …",
+          "text": "İnşaat, dolgu veya geçmişte yapılan düzenlemeler farklı toprakları bir araya getirmiş olabilir. Bu yüzden tek bir noktaya bakarak bütün bahçe hakkında karar vermeyin. Yeni bitki yerleştirmek istediğiniz alanları ayrı ayrı gözlemleyin ve suyun uzun süre kaldığı yerleri not edin."
+        },
+        {
+          "id": "t1n7hymk_281",
+          "label": "Bir alışveriş listesi hazırlamadan önce bitkileri koymayı düşündüğü…",
+          "text": "Bir alışveriş listesi hazırlamadan önce bitkileri koymayı düşündüğünüz köşeleri fotoğraflayın. Fotoğrafın yanında güneş aldığı saatleri, zeminin yağmurdan sonraki durumunu ve yakınındaki mevcut bitkileri yazın. Bu kayıtlar, yalnızca saksıdaki görünüşüne göre karar vermenizi önler."
+        },
+        {
+          "id": "tknoqzo_24",
+          "label": "Önce ihtiyacı belirleyin",
+          "text": "Önce ihtiyacı belirleyin"
+        },
+        {
+          "id": "t1w08kpk_257",
+          "label": "Toprağın yapısı ile besin durumu aynı şey değildir. Görünüşüne baka…",
+          "text": "Toprağın yapısı ile besin durumu aynı şey değildir. Görünüşüne bakarak rastgele malzeme veya gübre eklemek yerine neyi iyileştirmek istediğinizi belirleyin. Bitkinin tercih ettiği koşulları öğrenin; gerekiyorsa toprak analiziyle değerlendirmeyi destekleyin."
+        },
+        {
+          "id": "tshi0b5_247",
+          "label": "Bahçe düzenlemesi görüşmesinde yalnızca istediğiniz çiçekleri değil…",
+          "text": "Bahçe düzenlemesi görüşmesinde yalnızca istediğiniz çiçekleri değil, toprağa dair gözlemlerinizi de paylaşın. Böylece bitkilendirme, sulama ve sonraki bakım tek tek alınmış kararlar olmaktan çıkar; aynı alanın koşullarına göre birlikte ele alınır."
+        },
+        {
+          "id": "t1qmynl9_35",
+          "label": "RHS — Toprak türleri ve özellikleri",
+          "text": "RHS — Toprak türleri ve özellikleri"
+        },
+        {
+          "id": "t9frnzx_9",
+          "label": "Kaynaklar",
+          "text": "Kaynaklar"
+        },
+        {
+          "id": "t1jdup01_4",
+          "label": "Blog",
+          "text": "Blog"
+        },
+        {
+          "id": "t1v493py_13",
+          "label": "Diğer yazılar",
+          "text": "Diğer yazılar"
+        }
+      ],
+      "images": [
+        "/images/soil.webp"
+      ]
+    }
+  ],
+  "texts": {
+    "t1s773we_6": "Doğaya",
+    "t1jifsn2_14": "değer katarız.",
+    "t1x36hqj_23": "Bahçeniz için görüşelim",
+    "tajqc3k_13": "Hizmetlerimiz",
+    "t1xa0wnh_9": "Peyzajdan",
+    "t3anayk_15": "bahçe bakımına.",
+    "t1pf2b17_17": "Tüm hizmetlerimiz",
+    "t1hzqe38_13": "Bahçeniz için",
+    "t1al0rb7_18": "nasıl ilerliyoruz?",
+    "t1cv43qz_8": "Bahçeden",
+    "toimn1_7": "notlar.",
+    "t1snpdrq_11": "Tüm yazılar",
+    "t1mcdz9n_12": "Merak ediyor",
+    "tc81j9u_14": "olabilirsiniz.",
+    "t1kvn1oz_26": "Her şey bahçenizle başlar.",
+    "t1ldublb_25": "Birlikte değerlendirelim.",
+    "t117u4z3_17": "Bahçenizi anlatın",
+    "t1j3ejc7_26": "Peyzaj tasarım ve uygulama",
+    "t6dv8nl_22": "Periyodik bahçe bakımı",
+    "t1jaboy3_20": "Ağaç ve bitki budama",
+    "t1b05c0j_18": "Bahçenizi anlatın.",
+    "tfr3xw_11": "İlk görüşme",
+    "t1079ujl_31": "İhtiyacı birlikte belirleyelim.",
+    "t16b560m_20": "Bahçenin ihtiyaçları",
+    "t171dwz6_23": "Uygulamayı planlayalım.",
+    "t1hr615s_14": "Uygulama planı",
+    "t1metts0_18": "Bakımı sürdürelim.",
+    "t17nhutp_13": "Düzenli bakım",
+    "t1q11h9r_37": "Hangi bölgelerde hizmet veriyorsunuz?",
+    "t1jss604_112": "Atakum merkezliyiz. Samsun ve çevresindeki peyzaj, bakım ve budama işleri için bizimle iletişime geçebilirsiniz.",
+    "t17pvb9t_29": "Bahçe bakımı neleri kapsıyor?",
+    "tj1v9hv_143": "Periyodik bahçe bakımı kapsamında çim biçme, sulama ve genel bakım işleriyle ilgileniyoruz. Bahçenizin ihtiyacını birlikte değerlendirebiliriz.",
+    "t17x65z5_35": "Bahçem için nasıl bilgi alabilirim?",
+    "t1uuoxs2_150": "Bizi arayabilir ya da WhatsApp’tan yazabilirsiniz. Bahçenizin fotoğraflarını, bulunduğu bölgeyi ve yapılmasını istediğiniz işleri paylaşmanız yeterli.",
+    "tqa4lsx_44": "Mevcut bahçemi yeniden düzenleyebilir miyiz?",
+    "t1ngf3p8_134": "Peyzaj tasarım ve uygulama hizmetimiz için mevcut bahçenizin durumunu ve istediğiniz değişiklikleri Eren Gültekin’le görüşebilirsiniz.",
+    "t6r44it_17": "Bahçenize gereken",
+    "t15oh4ld_14": "ilgi ve bakım.",
+    "tpa7nbx_24": "Bu hizmet için görüşelim",
+    "t1egcife_15": "Peyzaj tasarımı",
+    "tuhuwis_147": "Yeni bir bahçe düzenlemesi ya da mevcut alanınızda bir değişiklik. Peyzaj tasarım ve uygulama ihtiyaçlarınız için bizimle iletişime geçebilirsiniz.",
+    "ta0qzxw_17": "Bahçe düzenlemesi",
+    "t1j9ns0x_17": "Peyzaj uygulaması",
+    "tpq9zvv_12": "Bahçe bakımı",
+    "t18vmgcr_139": "Bahçenin bakımı düzenli ilgi ister. Çim biçme, sulama ve genel bahçe bakımı için ihtiyacınıza uygun bir bakım düzeni üzerine görüşebiliriz.",
+    "tym2pz8_9": "Çim biçme",
+    "t1pe4j1k_6": "Sulama",
+    "tw5k1rd_20": "Düzenli bahçe bakımı",
+    "t7p5c4t_6": "Budama",
+    "t1pxfekw_137": "Bahçenizdeki ağaç ve bitkilerin budama işleri için bizi arayabilirsiniz. Bitkinin mevcut durumunu ve yapılacak işi görüşerek ilerleyelim.",
+    "t1se644z_11": "Ağaç budama",
+    "tiprudo_12": "Bitki budama",
+    "t1dmqh4b_19": "Bahçe içi düzenleme",
+    "tl06mqx_8": "Gültekin",
+    "t1r8gdt6_6": "Peyzaj",
+    "t1becuv4_157": "Gültekin Peyzaj olarak Atakum’dan Samsun ve çevresine hizmet veriyoruz. Peyzaj tasarım ve uygulama, periyodik bahçe bakımı ve budama işleriyle ilgileniyoruz.",
+    "t7n68cu_114": "İhtiyacınızı Eren Gültekin’e doğrudan anlatabilir, bahçenizin fotoğraflarını WhatsApp üzerinden paylaşabilirsiniz.",
+    "t1caqen5_14": "0545 951 23 53",
+    "t1oi2dvy_10": "konuşalım.",
+    "t1nxs6yd_11": "Bizi arayın",
+    "tsipey_18": "WhatsApp’tan yazın",
+    "t1jim0k1_79": "Bahçenizin fotoğraflarını ve ihtiyacınızı WhatsApp üzerinden paylaşabilirsiniz.",
+    "t4bnti3_9": "Instagram",
+    "t1bs8hg1_8": "Facebook",
+    "ttia2o_15": "Gültekin Peyzaj",
+    "t11qmqov_13": "Eren Gültekin",
+    "tuse5r6_15": "Atakum / Samsun",
+    "tjcmfxs_17": "Samsun ve çevresi",
+    "tfe9qc1_13": "@gultknpeyzaj",
+    "t1j7x4f9_21": "Doğaya değer katarız.",
+    "t1wzsbze_19": "Çim biçme ve sulama",
+    "ta6nw6e_8": "İletişim",
+    "t1bqird0_1": "©",
+    "t1pvodvd_35": "Web tasarım, uygulama ve geliştirme",
+    "tulgjta_19": "kocyigityazilim.com",
+    "t4d60ef_9": "Ana Sayfa",
+    "tdgbiii_10": "Hakkımızda",
+    "t1jdup01_4": "Blog",
+    "t7f1iob_38": "Bahçe düzenlemesine nereden başlamalı?",
+    "t1rsc1na_287": "Yeni bir bahçe düşünürken ilk karar çoğu zaman bitki seçimi oluyor. Oysa önce alanı nasıl kullanacağınızı belirlemek, sonradan yapılacak değişiklikleri azaltır. Oturmak, yürümek, çocuklarla vakit geçirmek ya da yalnızca yeşile bakmak: bahçenin düzeni günlük hayatınıza göre şekillenmeli.",
+    "te3pmsu_24": "Önce bahçeyi gözlemleyin",
+    "t3sn20_351": "Bir gün içinde aynı noktaya birkaç kez bakın. Sabah güneş alan bir köşe öğleden sonra gölgede kalabilir. Yağmurdan sonra suyun nerede biriktiğini, hangi geçişlerin çamur olduğunu ve rüzgârın en çok hangi bölüme geldiğini not edin. Çiziminiz kusursuz olmak zorunda değil; kapıları, mevcut ağaçları ve kullanmak istediğiniz alanları işaretlemek yeterli.",
+    "t14fads3_229": "Bahçenin farklı köşelerinden çekilmiş fotoğraflar da işe yarar. Sadece güzel bulduğunuz yerleri değil, çözmek istediğiniz noktaları da kaydedin. Böylece görüşme sırasında neyin korunacağı ve neyin değişeceği daha kolay anlaşılır.",
+    "tqw5r9k_43": "Geçişleri ve kullanım alanlarını belirleyin",
+    "t1y02pa6_332": "Evden bahçeye çıktığınızda izlediğiniz yol, oturma alanının konumu ve bakım ekipmanıyla geçilecek yerler birlikte düşünülmeli. Bir bitki grubunun içinden sürekli yürümek zorunda kalıyorsanız, sorun bitkilerde değil yerleşimde olabilir. Önce yürüyüş ve kullanım alanlarını yerleştirin, bitkilendirmeyi bu düzenin çevresinde ele alın.",
+    "t1tm8mgp_27": "Bakımı da planın içine alın",
+    "t11bnit1_285": "Ayırabileceğiniz bakım zamanını baştan söyleyin. Geniş çim alan, çok sayıda saksı veya sık şekil verilmesi gereken bitkiler farklı bakım düzenleri ister. Bitki seçiminde ışık kadar toprağın yapısını da dikkate alın. Aynı bahçenin her noktasında aynı koşulların bulunduğunu varsaymayın.",
+    "tj15uyh_220": "İlk görüşme için bahçenin yaklaşık ölçüsü, fotoğrafları ve kısa bir ihtiyaç listesi iyi bir başlangıçtır. Önceliklerinizi sıralayın: önce geçiş yolu mu, mevcut çimin bakımı mı, yoksa bütün alanın yeniden düzenlenmesi mi?",
+    "t23dgl3_28": "RHS — Toprak yapısını tanıma",
+    "t9frnzx_9": "Kaynaklar",
+    "t1v493py_13": "Diğer yazılar",
+    "tg3z4wy_36": "Çim biçerken nelere dikkat edilmeli?",
+    "t16y840_259": "Çimi çok kısa kesmek, bir sonraki biçimi ertelemenin iyi bir yolu değildir. Düzenli bir görünüm için kesim yüksekliği, çimin ne kadar uzadığı ve zeminin durumu birlikte değerlendirilmelidir. Her bahçede aynı makine ayarıyla ilerlemek doğru sonuç vermeyebilir.",
+    "t10gt070_29": "Bir seferde fazla kısaltmayın",
+    "t16bs99f_294": "Genel yaklaşım, tek biçimde yaprak uzunluğunun üçte birinden fazlasını almamaktır. Çim uzun süre biçilmediyse istenen yüksekliğe birkaç aşamada inmek daha uygundur. Kesim yüksekliği çim türüne, mevsime ve kullanım biçimine bağlıdır; bütün bahçeler için geçerli tek bir santimetre değeri yoktur.",
+    "t164ob32_27": "Islak zeminde acele etmeyin",
+    "tx77pwt_302": "Çok ıslak, donmuş veya ayak altında kolayca iz bırakan bir zeminde biçimi erteleyin. Yumuşak toprakta makineyle dolaşmak sıkışmaya, kesim sırasında da çim yüzeyinin zarar görmesine yol açabilir. Bıçakların temiz ve keskin olması düzgün kesim için önemlidir; kör bıçaklar yaprak uçlarını parçalayabilir.",
+    "t55eybn_31": "Takvimi büyümeye göre ayarlayın",
+    "tglpgvm_220": "Biçim sıklığını yalnızca haftanın belirli bir gününe bağlamayın. Çimin büyüme hızı, yağış ve sıcaklık değiştikçe bakım aralığı da değişir. Kurak dönemde büyüme yavaşladığında daha seyrek ve daha yüksek kesim gerekebilir.",
+    "tdc71rt_354": "Bahçenizi takip etmek için biçim tarihlerini ve kullandığınız yüksekliği küçük bir notta tutabilirsiniz. Özellikle aynı yerde tekrar eden sararma veya seyrelme varsa fotoğraf çekin. Bu kayıt, bakım konuşulurken yalnızca son görüntüye değil değişimin seyrine de bakmayı sağlar. Kullanacağınız makinenin ayarlarını kendi kullanım kılavuzundan kontrol edin.",
+    "tf4z8m8_23": "RHS — Çim biçme rehberi",
+    "t1if38sn_37": "Bahçe sulamasında doğru alışkanlıklar",
+    "t1586p4o_250": "Sulamada en sık karşılaşılan yanılgılardan biri, her bitkinin her gün aynı miktarda su istediğini düşünmektir. Saksıda yetişen bir bitkiyle yıllardır toprakta bulunan bir ağacın ihtiyacı aynı değildir. Yeni dikilmiş bitkiler de ayrı takip gerektirir.",
+    "tuq4uk1_24": "Yüzeyden fazlasına bakın",
+    "t1ylvnj_280": "Toprağın üstü kuru görünse de biraz altında nem bulunabilir. Sulamadan önce kök çevresindeki nemi kontrol edin. Saksılarda yüzeyin birkaç santimetre altına bakmak daha anlamlıdır. Yaprakların görünümü de fikir verir; ancak tek başına bir belirtiye bakarak su miktarını artırmayın.",
+    "t1xa9157_28": "Suyu kök bölgesine ulaştırın",
+    "tm12vm3_314": "Suyu yavaş vererek toprağa işlemesine fırsat tanıyın. Yalnızca yüzeyi ıslatıp geçmek yerine köklerin bulunduğu katmanın nemlenip nemlenmediğini değerlendirin. Yeni çim, yeni dikilen fidan ve yerleşmiş bitkiler için aynı süreyi kullanmayın. İhtiyaç; toprağın yapısı, bitkinin büyüklüğü ve hava koşullarıyla değişir.",
+    "tf9r546_31": "Yağmurdan sonra da kontrol edin",
+    "tk4rgni_259": "Yağmur yağmış olması her köşenin eşit ıslandığı anlamına gelmez. Saçak altında, duvar dibinde veya yoğun ağaç örtüsü altında kalan bitkilerin toprağı daha kuru olabilir. Otomatik bir sistem kullanıyorsanız programı mevsim boyunca hiç değiştirmeden bırakmayın.",
+    "t1mrhhc7_330": "Sulama takibi için bahçeyi birkaç bölüme ayırabilirsiniz: saksılar, yeni dikimler, çim alan ve yerleşmiş bitkiler. Hangi bölümün ne zaman sulandığını not etmek, gereksiz tekrarları fark etmeyi kolaylaştırır. Bir bölgede sürekli su birikiyorsa yalnızca süreyi azaltmakla yetinmeyin; suyun o noktada neden toplandığını da inceleyin.",
+    "t10yeefm_23": "RHS — Bitkilerde sulama",
+    "tbwprls_36": "Budama zamanı her bitkide aynı değil",
+    "t17ccbwm_311": "Bahçedeki bütün ağaç ve çalıları aynı gün, aynı biçimde budamak pratik görünebilir. Ancak doğru zaman bitkinin türüne ve hangi dallarda çiçek açtığına göre değişir. Budamaya başlamadan önce yapılacak işin amacını belirlemek gerekir: kuru dalları almak, biçim vermek veya fazla büyümeyi azaltmak farklı işlerdir.",
+    "t9to2wr_40": "Bitkinin adını ve çiçeklenmesini öğrenin",
+    "tic7y9o_313": "İlkbaharda çiçek açan pek çok çalı, tomurcuklarını önceki dönemin dallarında taşır. Çiçeklenmeden önce yapılan yoğun budama bu tomurcukları da götürebilir. Yazın çiçek açan bazı türlerde ise yeni sürgünler önemlidir. Bu nedenle yalnızca mevsime bakarak karar vermek yerine türün bakım bilgisi kontrol edilmelidir.",
+    "t1u3jcw_36": "Yeni dikilen bitkiye farklı yaklaşın",
+    "t1vgr1ls_328": "Yeni dikilmiş ağaç ve çalılarda ilk yıllarda çoğunlukla hafif düzeltme yeterlidir. Uzun süredir bakılmamış büyük bir bitkide yapılacak iş bununla aynı değildir. Yaşlanmış veya fazla sıklaşmış çalıların yenilenmesi bazen birkaç yıla yayılan bir plan gerektirir; hepsini bir kerede sert biçimde kısaltmak her tür için uygun olmaz.",
+    "txfjtq7_47": "Kesmeden önce neyi değiştireceğinizi belirleyin",
+    "t9wxbz1_286": "Bahçenin genel bir fotoğrafını ve budanacak bitkinin yakın planını çekin. Yola taşan dalı, kapanan görüşü veya korumak istediğiniz çiçeklenmeyi fotoğraf üzerinde göstermek işi netleştirir. Bitkinin adını bilmiyorsanız gelişigüzel bir takvim uygulamak yerine önce tanımlanmasını isteyin.",
+    "t127ssiw_243": "Görüşmeye hazırlık için bitkinin yaklaşık yüksekliğini, en son ne zaman budandığını ve bu yıl çiçek açıp açmadığını not edin. Yüksek ağaçlar ya da büyük dallar söz konusuysa kullanılacak ekipman ve erişim koşulları ayrıca değerlendirilmelidir.",
+    "t1ik0wkv_22": "RHS — Çalılarda budama",
+    "t11mr1ex_36": "Sonbaharda çim alanı gözden geçirmek",
+    "t1hlxq2i_272": "Yaz boyunca kullanılan bir çim alanın her köşesi aynı şekilde yıpranmaz. Oturma grubunun yanı, sık yürünülen geçişler veya uzun süre susuz kalan bölümler farklı görünebilir. Sonbahar bakımı, bütün işlemleri sırasıyla uygulamak yerine önce bu farkları görerek başlamalıdır.",
+    "t1ugocsx_32": "Alanı bölümler halinde inceleyin",
+    "t1h15124_365": "Bahçede yavaşça dolaşıp seyrekleşen ve sık kullanılan noktaları işaretleyin. Çim yaprakları arasında toprağı görmeyi engelleyen kalın bir kuru artık tabakası olup olmadığına bakın. İhtiyaca göre yapılacak yüzey temizliği, suyun toprağa ulaşmasını ve bitkiler arasındaki hava hareketini destekleyebilir. Her çim alanın her yıl aynı yoğunlukta işlem görmesi gerekmez.",
+    "t5fa4a_28": "Sıkışan bölgeleri ayırt edin",
+    "ty6x9yp_320": "Sık kullanılan yerlerde toprak sıkışması görülebilir. Uygun havalandırma işlemleri kök çevresinde hava ve su hareketine yardımcı olur; ancak işlem türü alanın durumuna göre seçilmelidir. Çimdeki her boşluk aynı nedenden oluşmaz. Onarıma geçmeden önce gölge, kullanım yoğunluğu ve suyun dağılımını birlikte değerlendirin.",
+    "t1a9j0e5_40": "Bakım gününü hava koşullarına göre seçin",
+    "tg85ntf_267": "Ilıman ve nemli koşullar çimin toparlanması için elverişli olabilir. Bununla birlikte takvimde sonbahar yazması tek başına yeterli değildir. Çok ıslak veya donmuş zeminde çalışmayı ertelemek gerekir. Bölgenin o günkü koşullarını ve kullanılan çim türünü dikkate alın.",
+    "tyg10qo_303": "Bakım öncesinde ve sonrasında aynı açıdan fotoğraf çekmek değişimi izlemeyi kolaylaştırır. Yapılan işi, kullanılan malzemeyi ve tarihi bir yere kaydedin. Sonraki bakımda bu kayda bakarak gerçekten ihtiyaç duyulan işlemlere karar verebilir, her defasında baştan aynı uygulamaları tekrarlamamış olursunuz.",
+    "tv8rn77_27": "RHS — Sonbaharda çim bakımı",
+    "t1akzacr_34": "RHS — Çim biçme ve zemin koşulları",
+    "t1vmn1m2_35": "Bitki seçmeden önce toprağı tanıyın",
+    "t13n6cgo_237": "Bir bitkinin fotoğrafını beğenmek, bahçenizde aynı şekilde gelişeceği anlamına gelmez. Işık ve yerleşim kadar köklerin bulunduğu toprak da önemlidir. Bitki almadan önce zemini tanımak, bakım planını daha gerçekçi kurmanıza yardımcı olur.",
+    "th02gfg_29": "Su toprakta nasıl davranıyor?",
+    "txbnkls_339": "Killi topraklar suyu daha uzun tutabilir ve ıslakken kolay sıkışabilir. Kumlu topraklar ise genellikle daha hızlı süzülür ve daha çabuk kurur. Bir avuç nemli toprağın dokusu başlangıç için fikir verir: belirgin taneler kumlu yapıya, ele yapışan ve şekil alan doku killi yapıya işaret edebilir. Bu gözlem ayrıntılı bir analiz yerine geçmez.",
+    "t1rvl9rv_36": "Bahçenin her köşesi aynı olmayabilir",
+    "tbkelp9_278": "İnşaat, dolgu veya geçmişte yapılan düzenlemeler farklı toprakları bir araya getirmiş olabilir. Bu yüzden tek bir noktaya bakarak bütün bahçe hakkında karar vermeyin. Yeni bitki yerleştirmek istediğiniz alanları ayrı ayrı gözlemleyin ve suyun uzun süre kaldığı yerleri not edin.",
+    "t1n7hymk_281": "Bir alışveriş listesi hazırlamadan önce bitkileri koymayı düşündüğünüz köşeleri fotoğraflayın. Fotoğrafın yanında güneş aldığı saatleri, zeminin yağmurdan sonraki durumunu ve yakınındaki mevcut bitkileri yazın. Bu kayıtlar, yalnızca saksıdaki görünüşüne göre karar vermenizi önler.",
+    "tknoqzo_24": "Önce ihtiyacı belirleyin",
+    "t1w08kpk_257": "Toprağın yapısı ile besin durumu aynı şey değildir. Görünüşüne bakarak rastgele malzeme veya gübre eklemek yerine neyi iyileştirmek istediğinizi belirleyin. Bitkinin tercih ettiği koşulları öğrenin; gerekiyorsa toprak analiziyle değerlendirmeyi destekleyin.",
+    "tshi0b5_247": "Bahçe düzenlemesi görüşmesinde yalnızca istediğiniz çiçekleri değil, toprağa dair gözlemlerinizi de paylaşın. Böylece bitkilendirme, sulama ve sonraki bakım tek tek alınmış kararlar olmaktan çıkar; aynı alanın koşullarına göre birlikte ele alınır.",
+    "t1qmynl9_35": "RHS — Toprak türleri ve özellikleri"
+  },
+  "images": [
+    {
+      "src": "/images/hero.webp",
+      "alt": "Bahçe ve pergola",
+      "pages": [
+        "/"
+      ]
+    },
+    {
+      "src": "/images/garden.webp",
+      "alt": "Bitkiler ve çiçekler arasında uzanan bahçe yolu",
+      "pages": [
+        "/",
+        "/hizmetler/"
+      ]
+    },
+    {
+      "src": "/images/mowing.webp",
+      "alt": "Çim biçme makinesi ve kenar biçme aletiyle yapılan bahçe bakımı",
+      "pages": [
+        "/",
+        "/hizmetler/",
+        "/blog/cim-bicerken-nelere-dikkat-edilmeli/"
+      ]
+    },
+    {
+      "src": "/images/pruning-action.webp",
+      "alt": "Budama makasıyla bir bitkinin dalının kesilmesi",
+      "pages": [
+        "/",
+        "/hizmetler/",
+        "/blog/budama-zamani-her-bitkide-ayni-degil/"
+      ]
+    },
+    {
+      "src": "/images/soil.webp",
+      "alt": "Uygulama planı",
+      "pages": [
+        "/",
+        "/blog/bitki-secmeden-once-topragi-taniyin/"
+      ]
+    },
+    {
+      "src": "/images/lawn.webp",
+      "alt": "Ağaçlar ve çiçek tarhları arasındaki yeşil çim alan",
+      "pages": [
+        "/hakkimizda/"
+      ]
+    },
+    {
+      "src": "/images/logo.webp",
+      "alt": "Gültekin Peyzaj logosu",
+      "pages": [
+        "shared"
+      ]
+    },
+    {
+      "src": "/images/trees.webp",
+      "alt": "Ağaçlar ve düzenli çalı gruplarıyla çevrili bahçe",
+      "pages": [
+        "/blog/bahce-duzenlemesine-nereden-baslamali/"
+      ]
+    },
+    {
+      "src": "/images/watering.webp",
+      "alt": "Bahçedeki bitkilerin hortumla sulanması",
+      "pages": [
+        "/blog/bahce-sulamasinda-dogru-aliskanliklar/"
+      ]
+    },
+    {
+      "src": "/images/autumn.webp",
+      "alt": "Çim alanın üzerinde biriken sonbahar yaprakları",
+      "pages": [
+        "/blog/sonbaharda-cim-bakimi/"
+      ]
+    }
+  ]
+}

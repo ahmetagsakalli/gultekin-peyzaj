@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.env*
+docs
+scripts
+README.md
+AGENTS.md
+start-local.command
+*.tsbuildinfo
+*.log
+.DS_Store
+public/videos/garden-path.mp4
+public/videos/garden-portrait.mp4
+
+tests
+vitest.config.mts
